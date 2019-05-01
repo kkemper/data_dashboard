@@ -84,7 +84,12 @@
   
   ## Plot Heart Rates over time and against mean
   heart_rate <- c(ehr, rhr, awhr)
-  qplot(date, ehr, geom="line")
+  plot(mhr, type="l", lwd = 2, xaxt='n', ylim=c(110, 160), col="purple", xlab="Date", ylab="Heart Rate (bpm)", main="Heart Rate Readings by Device")
+  axis(1,at=1:length(date),labels=date)
+  lines(ehr, col="red", type="l", lwd = 2)
+  lines(rhr, col="blue", type="l", lwd = 2)
+  lines(awhr, col="orange", type="l", lwd = 2)
+  legend("bottomright", legend=c("Elliptical", "Wahoo Tickr", "AppleWatch", "Average"), lty=1, lwd=2, pch=21, col=c("orange", "red", "blue", "purple"), ncol=2, bty="n", cex=0.8, text.col=c("orange", "red", "blue", "purple"), inset=0.01)
   
   ## Plot heart rate against pace
  ggplot(airtable, aes(x = pace, y = mhr)) + stat_density_2d(geom = "tile", aes(fill = ..density..), contour = FALSE) + scale_fill_viridis()
