@@ -3,6 +3,7 @@
   library(ggplot2)
   library(lubridate)
   library(plyr)
+  library(viridis)
   
   ## Load Airtable data into DataFrame and query top rows
   Sys.setenv("AIRTABLE_API_KEY"="keypchGI5tV3dEicT")
@@ -83,10 +84,10 @@
   
   ## Plot Heart Rates over time and against mean
   heart_rate <- c(ehr, rhr, awhr)
-  plot(date, ehr, type="l")
+  qplot(date, ehr, geom="line")
   
   ## Plot heart rate against pace
-  plot(mhr, pace, type="p")
+ ggplot(airtable, aes(x = pace, y = mhr)) + stat_density_2d(geom = "tile", aes(fill = ..density..), contour = FALSE) + scale_fill_viridis()
   
   ## Calculate instantaneous standard deviation.
   airtable$'standard deviation' <- sd(heart_rate)
