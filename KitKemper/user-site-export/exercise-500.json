@@ -1,0 +1,3431 @@
+[{
+  "logId" : 5618366061,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 3,
+    "name" : "sedentary"
+  },{
+    "minutes" : 11,
+    "name" : "lightly"
+  },{
+    "minutes" : 6,
+    "name" : "fairly"
+  },{
+    "minutes" : 4,
+    "name" : "very"
+  }],
+  "calories" : 142,
+  "duration" : 1485000,
+  "activeDuration" : 1485000,
+  "steps" : 1527,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "01/17/17 14:43:02",
+  "startTime" : "01/17/17 13:59:01",
+  "originalStartTime" : "01/17/17 13:59:01",
+  "originalDuration" : 1485000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 5721800738,
+  "activityName" : "Running (jogging), 7 mph (8.5 min mile) (MyFitnessPal)",
+  "activityTypeId" : 25457603,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 21,
+    "name" : "very"
+  }],
+  "calories" : 264,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 1260000,
+  "activeDuration" : 1260000,
+  "steps" : 0,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : true
+  },
+  "speed" : 0.0,
+  "lastModified" : "01/24/17 18:12:17",
+  "startTime" : "01/23/17 18:10:00",
+  "originalStartTime" : "01/23/17 18:10:00",
+  "originalDuration" : 1260000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 5727618913,
+  "activityName" : "Run",
+  "activityTypeId" : 90009,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 4,
+    "name" : "fairly"
+  },{
+    "minutes" : 27,
+    "name" : "very"
+  }],
+  "calories" : 490,
+  "duration" : 1900000,
+  "activeDuration" : 1900000,
+  "steps" : 4395,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "01/23/17 23:50:45",
+  "startTime" : "01/23/17 23:03:46",
+  "originalStartTime" : "01/23/17 23:03:46",
+  "originalDuration" : 1900000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 5721188245,
+  "activityName" : "Running (jogging), 7 mph (8.5 min mile) (MyFitnessPal)",
+  "activityTypeId" : 25457603,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 15,
+    "name" : "very"
+  }],
+  "calories" : 181,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 900000,
+  "activeDuration" : 900000,
+  "steps" : 0,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : true
+  },
+  "speed" : 0.0,
+  "lastModified" : "01/24/17 18:12:18",
+  "startTime" : "01/24/17 11:35:00",
+  "originalStartTime" : "01/24/17 11:35:00",
+  "originalDuration" : 900000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 5739024665,
+  "activityName" : "Run",
+  "activityTypeId" : 90009,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 18,
+    "name" : "very"
+  }],
+  "calories" : 313,
+  "duration" : 1126000,
+  "activeDuration" : 1126000,
+  "steps" : 2944,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "01/24/17 18:09:12",
+  "startTime" : "01/24/17 16:29:12",
+  "originalStartTime" : "01/24/17 16:29:12",
+  "originalDuration" : 1126000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 5766007058,
+  "activityName" : "Yoga",
+  "activityTypeId" : 52001,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 30,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "calories" : 162,
+  "duration" : 1800000,
+  "activeDuration" : 1800000,
+  "steps" : 10,
+  "source" : {
+    "type" : "app",
+    "name" : "Fitbit for iPhone",
+    "id" : "228TSL",
+    "url" : "https://www.fitbit.com/iphone"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : true,
+    "steps" : true
+  },
+  "lastModified" : "01/25/17 21:35:47",
+  "startTime" : "01/25/17 13:30:00",
+  "originalStartTime" : "01/25/17 13:30:00",
+  "originalDuration" : 1800000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 6043930481,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 1,
+    "name" : "lightly"
+  },{
+    "minutes" : 23,
+    "name" : "fairly"
+  },{
+    "minutes" : 8,
+    "name" : "very"
+  }],
+  "calories" : 208,
+  "duration" : 1945000,
+  "activeDuration" : 1945000,
+  "steps" : 2376,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "02/11/17 17:41:11",
+  "startTime" : "02/11/17 16:52:06",
+  "originalStartTime" : "02/11/17 16:52:06",
+  "originalDuration" : 1945000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 6060328394,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 1,
+    "name" : "lightly"
+  },{
+    "minutes" : 5,
+    "name" : "fairly"
+  },{
+    "minutes" : 11,
+    "name" : "very"
+  }],
+  "calories" : 127,
+  "duration" : 972000,
+  "activeDuration" : 972000,
+  "steps" : 1470,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "02/12/17 22:21:46",
+  "startTime" : "02/12/17 21:35:50",
+  "originalStartTime" : "02/12/17 21:35:50",
+  "originalDuration" : 972000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 6062404772,
+  "activityName" : "FitStar: Yoga",
+  "activityTypeId" : 26004875,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 31,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "calories" : 128,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 1860000,
+  "activeDuration" : 1860000,
+  "steps" : 38,
+  "source" : {
+    "type" : "app",
+    "name" : "Fitstar",
+    "id" : "228T4Z",
+    "url" : "http://www.fitstar.com"
+  },
+  "logType" : "fitstar_yoga",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "02/13/17 16:27:57",
+  "startTime" : "02/13/17 15:56:00",
+  "originalStartTime" : "02/13/17 15:56:00",
+  "originalDuration" : 1860000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 6072189898,
+  "activityName" : "Elliptical",
+  "activityTypeId" : 20047,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 1,
+    "name" : "fairly"
+  },{
+    "minutes" : 50,
+    "name" : "very"
+  }],
+  "calories" : 753,
+  "duration" : 3020000,
+  "activeDuration" : 3020000,
+  "steps" : 7121,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "02/13/17 18:18:08",
+  "startTime" : "02/13/17 17:22:50",
+  "originalStartTime" : "02/13/17 17:22:50",
+  "originalDuration" : 3020000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 6077930364,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 7,
+    "name" : "lightly"
+  },{
+    "minutes" : 41,
+    "name" : "fairly"
+  },{
+    "minutes" : 22,
+    "name" : "very"
+  }],
+  "calories" : 457,
+  "duration" : 4199000,
+  "activeDuration" : 4199000,
+  "steps" : 5119,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "02/14/17 00:15:46",
+  "startTime" : "02/13/17 22:22:20",
+  "originalStartTime" : "02/13/17 22:22:20",
+  "originalDuration" : 4199000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 6108632210,
+  "activityName" : "Elliptical",
+  "activityTypeId" : 20047,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 65,
+    "name" : "very"
+  }],
+  "calories" : 862,
+  "duration" : 3891000,
+  "activeDuration" : 3891000,
+  "steps" : 8520,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "02/15/17 17:24:05",
+  "startTime" : "02/15/17 16:15:26",
+  "originalStartTime" : "02/15/17 16:15:26",
+  "originalDuration" : 3891000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 6151980670,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 2,
+    "name" : "sedentary"
+  },{
+    "minutes" : 8,
+    "name" : "lightly"
+  },{
+    "minutes" : 15,
+    "name" : "fairly"
+  },{
+    "minutes" : 11,
+    "name" : "very"
+  }],
+  "calories" : 215,
+  "duration" : 2202000,
+  "activeDuration" : 2202000,
+  "steps" : 2301,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "02/17/17 21:54:45",
+  "startTime" : "02/17/17 21:15:48",
+  "originalStartTime" : "02/17/17 21:15:48",
+  "originalDuration" : 2202000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 6154518818,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 3,
+    "name" : "lightly"
+  },{
+    "minutes" : 18,
+    "name" : "fairly"
+  },{
+    "minutes" : 8,
+    "name" : "very"
+  }],
+  "calories" : 182,
+  "duration" : 1744000,
+  "activeDuration" : 1744000,
+  "steps" : 2066,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "02/17/17 22:55:36",
+  "startTime" : "02/17/17 22:12:56",
+  "originalStartTime" : "02/17/17 22:12:56",
+  "originalDuration" : 1744000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 6172907401,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 7,
+    "name" : "fairly"
+  },{
+    "minutes" : 15,
+    "name" : "very"
+  }],
+  "calories" : 175,
+  "duration" : 1332000,
+  "activeDuration" : 1332000,
+  "steps" : 2092,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "02/18/17 23:54:08",
+  "startTime" : "02/18/17 23:17:25",
+  "originalStartTime" : "02/18/17 23:17:25",
+  "originalDuration" : 1332000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 6173738868,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 2,
+    "name" : "lightly"
+  },{
+    "minutes" : 1,
+    "name" : "fairly"
+  },{
+    "minutes" : 18,
+    "name" : "very"
+  }],
+  "calories" : 177,
+  "duration" : 1229000,
+  "activeDuration" : 1229000,
+  "steps" : 2127,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "02/19/17 01:25:04",
+  "startTime" : "02/19/17 00:52:59",
+  "originalStartTime" : "02/19/17 00:52:59",
+  "originalDuration" : 1229000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 6279338237,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 4,
+    "name" : "lightly"
+  },{
+    "minutes" : 13,
+    "name" : "fairly"
+  },{
+    "minutes" : 4,
+    "name" : "very"
+  }],
+  "calories" : 134,
+  "duration" : 1280000,
+  "activeDuration" : 1280000,
+  "steps" : 1515,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "02/25/17 00:20:53",
+  "startTime" : "02/24/17 23:49:02",
+  "originalStartTime" : "02/24/17 23:49:02",
+  "originalDuration" : 1280000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 6292702495,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 4,
+    "name" : "lightly"
+  },{
+    "minutes" : 9,
+    "name" : "fairly"
+  },{
+    "minutes" : 3,
+    "name" : "very"
+  }],
+  "calories" : 92,
+  "duration" : 1077000,
+  "activeDuration" : 1077000,
+  "steps" : 961,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "02/25/17 19:27:20",
+  "startTime" : "02/25/17 18:55:02",
+  "originalStartTime" : "02/25/17 18:55:02",
+  "originalDuration" : 1077000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 6320457557,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 11,
+    "name" : "lightly"
+  },{
+    "minutes" : 28,
+    "name" : "fairly"
+  },{
+    "minutes" : 36,
+    "name" : "very"
+  }],
+  "calories" : 507,
+  "duration" : 4506000,
+  "activeDuration" : 4506000,
+  "steps" : 5772,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "02/27/17 18:16:21",
+  "startTime" : "02/26/17 22:41:38",
+  "originalStartTime" : "02/26/17 22:41:38",
+  "originalDuration" : 4506000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 6327866083,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 5,
+    "name" : "lightly"
+  },{
+    "minutes" : 27,
+    "name" : "fairly"
+  },{
+    "minutes" : 12,
+    "name" : "very"
+  }],
+  "calories" : 279,
+  "duration" : 2662000,
+  "activeDuration" : 2662000,
+  "steps" : 3183,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "02/27/17 23:31:07",
+  "startTime" : "02/27/17 22:37:35",
+  "originalStartTime" : "02/27/17 22:37:35",
+  "originalDuration" : 2662000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 6344172521,
+  "activityName" : "Elliptical",
+  "activityTypeId" : 20047,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 1,
+    "name" : "fairly"
+  },{
+    "minutes" : 64,
+    "name" : "very"
+  }],
+  "calories" : 734,
+  "duration" : 3942000,
+  "activeDuration" : 3942000,
+  "steps" : 8090,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "02/28/17 22:52:16",
+  "startTime" : "02/28/17 18:41:39",
+  "originalStartTime" : "02/28/17 18:41:39",
+  "originalDuration" : 3942000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 6406110788,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 5,
+    "name" : "lightly"
+  },{
+    "minutes" : 30,
+    "name" : "fairly"
+  },{
+    "minutes" : 8,
+    "name" : "very"
+  }],
+  "calories" : 277,
+  "duration" : 2560000,
+  "activeDuration" : 2560000,
+  "steps" : 3141,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "03/04/17 05:15:49",
+  "startTime" : "03/03/17 22:48:42",
+  "originalStartTime" : "03/03/17 22:48:42",
+  "originalDuration" : 2560000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 6462771563,
+  "activityName" : "Run",
+  "activityTypeId" : 90009,
+  "activityLevel" : [{
+    "minutes" : 9,
+    "name" : "sedentary"
+  },{
+    "minutes" : 3,
+    "name" : "lightly"
+  },{
+    "minutes" : 1,
+    "name" : "fairly"
+  },{
+    "minutes" : 1,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 95,
+  "calories" : 44,
+  "distance" : 0.066443,
+  "distanceUnit" : "Mile",
+  "duration" : 1223000,
+  "activeDuration" : 864000,
+  "steps" : 202,
+  "source" : {
+    "type" : "tracker",
+    "name" : "Charge 2",
+    "id" : "91141936",
+    "url" : "https://www.fitbit.com/"
+  },
+  "logType" : "tracker",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Out of Range",
+    "min" : 30,
+    "max" : 89,
+    "minutes" : 6
+  },{
+    "name" : "Fat Burn",
+    "min" : 89,
+    "max" : 125,
+    "minutes" : 8
+  },{
+    "name" : "Cardio",
+    "min" : 125,
+    "max" : 152,
+    "minutes" : 0
+  },{
+    "name" : "Peak",
+    "min" : 152,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "speed" : 0.27684583333333335,
+  "pace" : 13003.627169152507,
+  "lastModified" : "03/07/17 22:45:11",
+  "startTime" : "03/07/17 22:12:51",
+  "originalStartTime" : "03/07/17 22:12:51",
+  "originalDuration" : 1223000,
+  "elevationGain" : 10.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 6533841273,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 22,
+    "name" : "lightly"
+  },{
+    "minutes" : 9,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "calories" : 145,
+  "duration" : 1894000,
+  "activeDuration" : 1894000,
+  "steps" : 1293,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "03/11/17 18:21:39",
+  "startTime" : "03/11/17 17:39:02",
+  "originalStartTime" : "03/11/17 17:39:02",
+  "originalDuration" : 1894000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 6550517567,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 5,
+    "name" : "lightly"
+  },{
+    "minutes" : 35,
+    "name" : "fairly"
+  },{
+    "minutes" : 12,
+    "name" : "very"
+  }],
+  "calories" : 330,
+  "duration" : 3124000,
+  "activeDuration" : 3124000,
+  "steps" : 3737,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "03/12/17 22:43:16",
+  "startTime" : "03/12/17 21:44:21",
+  "originalStartTime" : "03/12/17 21:44:21",
+  "originalDuration" : 3124000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 6665475301,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 2,
+    "name" : "lightly"
+  },{
+    "minutes" : 45,
+    "name" : "fairly"
+  },{
+    "minutes" : 13,
+    "name" : "very"
+  }],
+  "calories" : 386,
+  "duration" : 3639000,
+  "activeDuration" : 3639000,
+  "steps" : 4453,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "03/19/17 19:51:06",
+  "startTime" : "03/19/17 18:35:19",
+  "originalStartTime" : "03/19/17 18:35:19",
+  "originalDuration" : 3639000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 6667932252,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 2,
+    "name" : "fairly"
+  },{
+    "minutes" : 20,
+    "name" : "very"
+  }],
+  "calories" : 180,
+  "duration" : 1382000,
+  "activeDuration" : 1382000,
+  "steps" : 2154,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "03/19/17 22:20:12",
+  "startTime" : "03/19/17 21:43:08",
+  "originalStartTime" : "03/19/17 21:43:08",
+  "originalDuration" : 1382000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 6669209859,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 2,
+    "name" : "lightly"
+  },{
+    "minutes" : 3,
+    "name" : "fairly"
+  },{
+    "minutes" : 18,
+    "name" : "very"
+  }],
+  "calories" : 174,
+  "duration" : 1382000,
+  "activeDuration" : 1382000,
+  "steps" : 2049,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "03/19/17 23:36:11",
+  "startTime" : "03/19/17 23:07:37",
+  "originalStartTime" : "03/19/17 23:07:37",
+  "originalDuration" : 1382000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 6775039750,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 2,
+    "name" : "lightly"
+  },{
+    "minutes" : 15,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "calories" : 89,
+  "duration" : 1075000,
+  "activeDuration" : 1075000,
+  "steps" : 938,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "03/25/17 17:56:49",
+  "startTime" : "03/25/17 17:22:02",
+  "originalStartTime" : "03/25/17 17:22:02",
+  "originalDuration" : 1075000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 6779332705,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 9,
+    "name" : "lightly"
+  },{
+    "minutes" : 22,
+    "name" : "fairly"
+  },{
+    "minutes" : 2,
+    "name" : "very"
+  }],
+  "calories" : 180,
+  "duration" : 2048000,
+  "activeDuration" : 2048000,
+  "steps" : 1864,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "03/25/17 22:33:23",
+  "startTime" : "03/25/17 21:34:38",
+  "originalStartTime" : "03/25/17 21:34:38",
+  "originalDuration" : 2048000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 6793732661,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 4,
+    "name" : "sedentary"
+  },{
+    "minutes" : 11,
+    "name" : "lightly"
+  },{
+    "minutes" : 8,
+    "name" : "fairly"
+  },{
+    "minutes" : 4,
+    "name" : "very"
+  }],
+  "calories" : 139,
+  "duration" : 1638000,
+  "activeDuration" : 1638000,
+  "steps" : 1423,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "03/26/17 22:42:37",
+  "startTime" : "03/26/17 22:03:13",
+  "originalStartTime" : "03/26/17 22:03:13",
+  "originalDuration" : 1638000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 6817902546,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 5,
+    "name" : "sedentary"
+  },{
+    "minutes" : 14,
+    "name" : "lightly"
+  },{
+    "minutes" : 1,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "calories" : 66,
+  "duration" : 1227000,
+  "activeDuration" : 1227000,
+  "steps" : 365,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "03/28/17 05:14:29",
+  "startTime" : "03/27/17 14:04:57",
+  "originalStartTime" : "03/27/17 14:04:57",
+  "originalDuration" : 1227000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 6832386213,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 1,
+    "name" : "lightly"
+  },{
+    "minutes" : 2,
+    "name" : "fairly"
+  },{
+    "minutes" : 107,
+    "name" : "very"
+  }],
+  "calories" : 968,
+  "duration" : 6606000,
+  "activeDuration" : 6606000,
+  "steps" : 11866,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "03/28/17 21:17:04",
+  "startTime" : "03/28/17 19:19:22",
+  "originalStartTime" : "03/28/17 19:19:22",
+  "originalDuration" : 6606000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 6864346599,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 3,
+    "name" : "lightly"
+  },{
+    "minutes" : 10,
+    "name" : "fairly"
+  },{
+    "minutes" : 3,
+    "name" : "very"
+  }],
+  "calories" : 96,
+  "duration" : 923000,
+  "activeDuration" : 923000,
+  "steps" : 1022,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "03/30/17 18:41:49",
+  "startTime" : "03/30/17 18:13:41",
+  "originalStartTime" : "03/30/17 18:13:41",
+  "originalDuration" : 923000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 6897992328,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 3,
+    "name" : "lightly"
+  },{
+    "minutes" : 31,
+    "name" : "fairly"
+  },{
+    "minutes" : 17,
+    "name" : "very"
+  }],
+  "calories" : 333,
+  "duration" : 3110000,
+  "activeDuration" : 3110000,
+  "steps" : 3829,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "04/01/17 20:01:11",
+  "startTime" : "04/01/17 18:56:11",
+  "originalStartTime" : "04/01/17 18:56:11",
+  "originalDuration" : 3110000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 6917269589,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 2,
+    "name" : "lightly"
+  },{
+    "minutes" : 13,
+    "name" : "fairly"
+  },{
+    "minutes" : 8,
+    "name" : "very"
+  }],
+  "calories" : 150,
+  "duration" : 1434000,
+  "activeDuration" : 1434000,
+  "steps" : 1718,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "04/03/17 00:50:52",
+  "startTime" : "04/03/17 00:20:02",
+  "originalStartTime" : "04/03/17 00:20:02",
+  "originalDuration" : 1434000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 6946449365,
+  "activityName" : "Elliptical",
+  "activityTypeId" : 20047,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 65,
+    "name" : "very"
+  }],
+  "calories" : 856,
+  "duration" : 3891000,
+  "activeDuration" : 3891000,
+  "steps" : 8514,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "04/04/17 14:37:54",
+  "startTime" : "04/04/17 13:28:57",
+  "originalStartTime" : "04/04/17 13:28:57",
+  "originalDuration" : 3891000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 6957083763,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 1,
+    "name" : "lightly"
+  },{
+    "minutes" : 42,
+    "name" : "fairly"
+  },{
+    "minutes" : 2,
+    "name" : "very"
+  }],
+  "calories" : 270,
+  "duration" : 2765000,
+  "activeDuration" : 2765000,
+  "steps" : 3086,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "04/05/17 02:18:46",
+  "startTime" : "04/04/17 23:54:26",
+  "originalStartTime" : "04/04/17 23:54:26",
+  "originalDuration" : 2765000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7020853279,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 3,
+    "name" : "lightly"
+  },{
+    "minutes" : 7,
+    "name" : "fairly"
+  },{
+    "minutes" : 10,
+    "name" : "very"
+  }],
+  "calories" : 138,
+  "duration" : 1177000,
+  "activeDuration" : 1177000,
+  "steps" : 1555,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "04/08/17 16:43:07",
+  "startTime" : "04/08/17 16:09:25",
+  "originalStartTime" : "04/08/17 16:09:25",
+  "originalDuration" : 1177000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7024239915,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 8,
+    "name" : "lightly"
+  },{
+    "minutes" : 35,
+    "name" : "fairly"
+  },{
+    "minutes" : 7,
+    "name" : "very"
+  }],
+  "calories" : 303,
+  "duration" : 3016000,
+  "activeDuration" : 3016000,
+  "steps" : 3365,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "04/08/17 20:15:01",
+  "startTime" : "04/08/17 19:12:01",
+  "originalStartTime" : "04/08/17 19:12:01",
+  "originalDuration" : 3016000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7037022180,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 1,
+    "name" : "lightly"
+  },{
+    "minutes" : 23,
+    "name" : "fairly"
+  },{
+    "minutes" : 1,
+    "name" : "very"
+  }],
+  "calories" : 140,
+  "duration" : 1535000,
+  "activeDuration" : 1535000,
+  "steps" : 1513,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "04/09/17 17:09:00",
+  "startTime" : "04/09/17 16:28:37",
+  "originalStartTime" : "04/09/17 16:28:37",
+  "originalDuration" : 1535000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7041358660,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 9,
+    "name" : "lightly"
+  },{
+    "minutes" : 8,
+    "name" : "fairly"
+  },{
+    "minutes" : 1,
+    "name" : "very"
+  }],
+  "calories" : 88,
+  "duration" : 1077000,
+  "activeDuration" : 1077000,
+  "steps" : 851,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "04/09/17 21:47:29",
+  "startTime" : "04/09/17 21:22:59",
+  "originalStartTime" : "04/09/17 21:22:59",
+  "originalDuration" : 1077000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7071590186,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 9,
+    "name" : "lightly"
+  },{
+    "minutes" : 9,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "calories" : 90,
+  "duration" : 1178000,
+  "activeDuration" : 1178000,
+  "steps" : 768,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "04/11/17 12:35:28",
+  "startTime" : "04/10/17 20:07:29",
+  "originalStartTime" : "04/10/17 20:07:29",
+  "originalDuration" : 1178000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7071590187,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 8,
+    "name" : "lightly"
+  },{
+    "minutes" : 21,
+    "name" : "fairly"
+  },{
+    "minutes" : 3,
+    "name" : "very"
+  }],
+  "calories" : 164,
+  "duration" : 1997000,
+  "activeDuration" : 1997000,
+  "steps" : 1618,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "04/11/17 12:35:28",
+  "startTime" : "04/10/17 20:27:07",
+  "originalStartTime" : "04/10/17 20:27:07",
+  "originalDuration" : 1997000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7147823313,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 2,
+    "name" : "sedentary"
+  },{
+    "minutes" : 8,
+    "name" : "lightly"
+  },{
+    "minutes" : 3,
+    "name" : "fairly"
+  },{
+    "minutes" : 14,
+    "name" : "very"
+  }],
+  "calories" : 189,
+  "duration" : 1637000,
+  "activeDuration" : 1637000,
+  "steps" : 2208,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "04/15/17 14:17:47",
+  "startTime" : "04/15/17 13:45:40",
+  "originalStartTime" : "04/15/17 13:45:40",
+  "originalDuration" : 1637000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7149035247,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 3,
+    "name" : "sedentary"
+  },{
+    "minutes" : 9,
+    "name" : "lightly"
+  },{
+    "minutes" : 15,
+    "name" : "fairly"
+  },{
+    "minutes" : 22,
+    "name" : "very"
+  }],
+  "calories" : 314,
+  "duration" : 2970000,
+  "activeDuration" : 2970000,
+  "steps" : 3569,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "04/15/17 15:38:23",
+  "startTime" : "04/15/17 14:34:18",
+  "originalStartTime" : "04/15/17 14:34:18",
+  "originalDuration" : 2970000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7170408275,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 2,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 21,
+    "name" : "very"
+  }],
+  "calories" : 190,
+  "duration" : 1382000,
+  "activeDuration" : 1382000,
+  "steps" : 2281,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "04/17/17 00:49:35",
+  "startTime" : "04/16/17 21:54:13",
+  "originalStartTime" : "04/16/17 21:54:13",
+  "originalDuration" : 1382000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7170867059,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 3,
+    "name" : "lightly"
+  },{
+    "minutes" : 18,
+    "name" : "fairly"
+  },{
+    "minutes" : 11,
+    "name" : "very"
+  }],
+  "calories" : 204,
+  "duration" : 1946000,
+  "activeDuration" : 1946000,
+  "steps" : 2252,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "04/17/17 01:40:00",
+  "startTime" : "04/17/17 00:39:45",
+  "originalStartTime" : "04/17/17 00:39:45",
+  "originalDuration" : 1946000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7186284364,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 3,
+    "name" : "lightly"
+  },{
+    "minutes" : 16,
+    "name" : "fairly"
+  },{
+    "minutes" : 6,
+    "name" : "very"
+  }],
+  "calories" : 153,
+  "duration" : 1485000,
+  "activeDuration" : 1485000,
+  "steps" : 1669,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "04/17/17 23:32:56",
+  "startTime" : "04/17/17 20:17:19",
+  "originalStartTime" : "04/17/17 20:17:19",
+  "originalDuration" : 1485000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7196122310,
+  "activityName" : "Outdoor Bike",
+  "activityTypeId" : 1071,
+  "activityLevel" : [{
+    "minutes" : 4,
+    "name" : "sedentary"
+  },{
+    "minutes" : 3,
+    "name" : "lightly"
+  },{
+    "minutes" : 6,
+    "name" : "fairly"
+  },{
+    "minutes" : 45,
+    "name" : "very"
+  }],
+  "calories" : 459,
+  "duration" : 3482000,
+  "activeDuration" : 3482000,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "04/18/17 14:57:26",
+  "startTime" : "04/18/17 13:49:31",
+  "originalStartTime" : "04/18/17 13:49:31",
+  "originalDuration" : 3482000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7204535647,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 1,
+    "name" : "lightly"
+  },{
+    "minutes" : 4,
+    "name" : "fairly"
+  },{
+    "minutes" : 17,
+    "name" : "very"
+  }],
+  "calories" : 169,
+  "duration" : 1383000,
+  "activeDuration" : 1383000,
+  "steps" : 1999,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "04/18/17 23:11:23",
+  "startTime" : "04/18/17 22:44:34",
+  "originalStartTime" : "04/18/17 22:44:34",
+  "originalDuration" : 1383000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7206566500,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 2,
+    "name" : "lightly"
+  },{
+    "minutes" : 3,
+    "name" : "fairly"
+  },{
+    "minutes" : 14,
+    "name" : "very"
+  }],
+  "calories" : 147,
+  "duration" : 1178000,
+  "activeDuration" : 1178000,
+  "steps" : 1753,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "04/19/17 01:13:06",
+  "startTime" : "04/19/17 00:37:12",
+  "originalStartTime" : "04/19/17 00:37:12",
+  "originalDuration" : 1178000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7251679388,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 4,
+    "name" : "lightly"
+  },{
+    "minutes" : 22,
+    "name" : "fairly"
+  },{
+    "minutes" : 2,
+    "name" : "very"
+  }],
+  "calories" : 160,
+  "duration" : 1689000,
+  "activeDuration" : 1689000,
+  "steps" : 1774,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "04/21/17 12:03:34",
+  "startTime" : "04/20/17 23:42:37",
+  "originalStartTime" : "04/20/17 23:42:37",
+  "originalDuration" : 1689000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7293843090,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 2,
+    "name" : "lightly"
+  },{
+    "minutes" : 16,
+    "name" : "fairly"
+  },{
+    "minutes" : 8,
+    "name" : "very"
+  }],
+  "calories" : 165,
+  "duration" : 1638000,
+  "activeDuration" : 1638000,
+  "steps" : 1895,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "04/24/17 00:39:15",
+  "startTime" : "04/23/17 23:58:25",
+  "originalStartTime" : "04/23/17 23:58:25",
+  "originalDuration" : 1638000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7308744275,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 5,
+    "name" : "lightly"
+  },{
+    "minutes" : 11,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "calories" : 78,
+  "duration" : 922000,
+  "activeDuration" : 922000,
+  "steps" : 727,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "04/24/17 20:40:45",
+  "startTime" : "04/24/17 20:11:52",
+  "originalStartTime" : "04/24/17 20:11:52",
+  "originalDuration" : 922000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7309411937,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 26,
+    "name" : "lightly"
+  },{
+    "minutes" : 12,
+    "name" : "fairly"
+  },{
+    "minutes" : 2,
+    "name" : "very"
+  }],
+  "calories" : 207,
+  "duration" : 2457000,
+  "activeDuration" : 2457000,
+  "steps" : 1986,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "04/24/17 21:26:26",
+  "startTime" : "04/24/17 20:27:14",
+  "originalStartTime" : "04/24/17 20:27:14",
+  "originalDuration" : 2457000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7343959601,
+  "activityName" : "Outdoor Bike",
+  "activityTypeId" : 1071,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 5,
+    "name" : "fairly"
+  },{
+    "minutes" : 11,
+    "name" : "very"
+  }],
+  "calories" : 125,
+  "duration" : 922000,
+  "activeDuration" : 922000,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "04/26/17 15:41:52",
+  "startTime" : "04/26/17 15:15:46",
+  "originalStartTime" : "04/26/17 15:15:46",
+  "originalDuration" : 922000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7367637419,
+  "activityName" : "Outdoor Bike",
+  "activityTypeId" : 1071,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 1,
+    "name" : "lightly"
+  },{
+    "minutes" : 5,
+    "name" : "fairly"
+  },{
+    "minutes" : 46,
+    "name" : "very"
+  }],
+  "calories" : 461,
+  "duration" : 3073000,
+  "activeDuration" : 3073000,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "04/27/17 19:08:29",
+  "startTime" : "04/27/17 18:06:51",
+  "originalStartTime" : "04/27/17 18:06:51",
+  "originalDuration" : 3073000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7437979506,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 6,
+    "name" : "lightly"
+  },{
+    "minutes" : 11,
+    "name" : "fairly"
+  },{
+    "minutes" : 2,
+    "name" : "very"
+  }],
+  "calories" : 99,
+  "duration" : 1177000,
+  "activeDuration" : 1177000,
+  "steps" : 999,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "05/01/17 21:49:43",
+  "startTime" : "05/01/17 21:16:30",
+  "originalStartTime" : "05/01/17 21:16:30",
+  "originalDuration" : 1177000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7453178195,
+  "activityName" : "Elliptical",
+  "activityTypeId" : 20047,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 64,
+    "name" : "very"
+  }],
+  "calories" : 762,
+  "duration" : 3892000,
+  "activeDuration" : 3892000,
+  "steps" : 8153,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "05/02/17 17:41:37",
+  "startTime" : "05/02/17 16:19:06",
+  "originalStartTime" : "05/02/17 16:19:06",
+  "originalDuration" : 3892000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7515329059,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 5,
+    "name" : "lightly"
+  },{
+    "minutes" : 22,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "calories" : 146,
+  "duration" : 1638000,
+  "activeDuration" : 1638000,
+  "steps" : 1563,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "05/06/17 00:54:06",
+  "startTime" : "05/06/17 00:20:51",
+  "originalStartTime" : "05/06/17 00:20:51",
+  "originalDuration" : 1638000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7516213384,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 9,
+    "name" : "lightly"
+  },{
+    "minutes" : 6,
+    "name" : "fairly"
+  },{
+    "minutes" : 2,
+    "name" : "very"
+  }],
+  "calories" : 93,
+  "duration" : 1124000,
+  "activeDuration" : 1124000,
+  "steps" : 917,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "05/06/17 02:25:32",
+  "startTime" : "05/06/17 01:11:12",
+  "originalStartTime" : "05/06/17 01:11:12",
+  "originalDuration" : 1124000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7526855902,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 1,
+    "name" : "lightly"
+  },{
+    "minutes" : 1,
+    "name" : "fairly"
+  },{
+    "minutes" : 14,
+    "name" : "very"
+  }],
+  "calories" : 130,
+  "duration" : 973000,
+  "activeDuration" : 973000,
+  "steps" : 1552,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "05/06/17 18:44:21",
+  "startTime" : "05/06/17 16:20:51",
+  "originalStartTime" : "05/06/17 16:20:51",
+  "originalDuration" : 973000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7526855903,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 2,
+    "name" : "lightly"
+  },{
+    "minutes" : 1,
+    "name" : "fairly"
+  },{
+    "minutes" : 15,
+    "name" : "very"
+  }],
+  "calories" : 143,
+  "duration" : 1127000,
+  "activeDuration" : 1127000,
+  "steps" : 1702,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "05/06/17 18:44:21",
+  "startTime" : "05/06/17 18:18:36",
+  "originalStartTime" : "05/06/17 18:18:36",
+  "originalDuration" : 1127000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7528543763,
+  "activityName" : "Outdoor Bike",
+  "activityTypeId" : 1071,
+  "activityLevel" : [{
+    "minutes" : 5,
+    "name" : "sedentary"
+  },{
+    "minutes" : 8,
+    "name" : "lightly"
+  },{
+    "minutes" : 21,
+    "name" : "fairly"
+  },{
+    "minutes" : 43,
+    "name" : "very"
+  }],
+  "calories" : 551,
+  "duration" : 4660000,
+  "activeDuration" : 4660000,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "05/06/17 20:22:35",
+  "startTime" : "05/06/17 18:50:10",
+  "originalStartTime" : "05/06/17 18:50:10",
+  "originalDuration" : 4660000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7531829386,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 1,
+    "name" : "lightly"
+  },{
+    "minutes" : 4,
+    "name" : "fairly"
+  },{
+    "minutes" : 22,
+    "name" : "very"
+  }],
+  "calories" : 215,
+  "duration" : 1638000,
+  "activeDuration" : 1638000,
+  "steps" : 2605,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "05/07/17 00:55:08",
+  "startTime" : "05/07/17 00:20:26",
+  "originalStartTime" : "05/07/17 00:20:26",
+  "originalDuration" : 1638000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7562074629,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 2,
+    "name" : "sedentary"
+  },{
+    "minutes" : 10,
+    "name" : "lightly"
+  },{
+    "minutes" : 6,
+    "name" : "fairly"
+  },{
+    "minutes" : 10,
+    "name" : "very"
+  }],
+  "calories" : 165,
+  "duration" : 1690000,
+  "activeDuration" : 1690000,
+  "steps" : 1779,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "05/08/17 20:54:28",
+  "startTime" : "05/08/17 20:03:30",
+  "originalStartTime" : "05/08/17 20:03:30",
+  "originalDuration" : 1690000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7562608412,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 19,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "calories" : 105,
+  "duration" : 1126000,
+  "activeDuration" : 1126000,
+  "steps" : 1067,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "05/08/17 21:25:18",
+  "startTime" : "05/08/17 20:51:17",
+  "originalStartTime" : "05/08/17 20:51:17",
+  "originalDuration" : 1126000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7564819718,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 11,
+    "name" : "lightly"
+  },{
+    "minutes" : 4,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "calories" : 69,
+  "duration" : 921000,
+  "activeDuration" : 921000,
+  "steps" : 574,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "05/08/17 23:12:45",
+  "startTime" : "05/08/17 22:50:45",
+  "originalStartTime" : "05/08/17 22:50:45",
+  "originalDuration" : 921000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7566062656,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 1,
+    "name" : "lightly"
+  },{
+    "minutes" : 11,
+    "name" : "fairly"
+  },{
+    "minutes" : 3,
+    "name" : "very"
+  }],
+  "calories" : 86,
+  "duration" : 921000,
+  "activeDuration" : 921000,
+  "steps" : 951,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "05/09/17 00:40:23",
+  "startTime" : "05/09/17 00:10:07",
+  "originalStartTime" : "05/09/17 00:10:07",
+  "originalDuration" : 921000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7588044793,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 15,
+    "name" : "lightly"
+  },{
+    "minutes" : 28,
+    "name" : "fairly"
+  },{
+    "minutes" : 6,
+    "name" : "very"
+  }],
+  "calories" : 270,
+  "duration" : 2919000,
+  "activeDuration" : 2919000,
+  "steps" : 2906,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "05/10/17 02:16:21",
+  "startTime" : "05/10/17 00:16:31",
+  "originalStartTime" : "05/10/17 00:16:31",
+  "originalDuration" : 2919000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7605609424,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 5,
+    "name" : "sedentary"
+  },{
+    "minutes" : 16,
+    "name" : "lightly"
+  },{
+    "minutes" : 30,
+    "name" : "fairly"
+  },{
+    "minutes" : 1,
+    "name" : "very"
+  }],
+  "calories" : 242,
+  "duration" : 3174000,
+  "activeDuration" : 3174000,
+  "steps" : 2293,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "05/10/17 22:29:25",
+  "startTime" : "05/10/17 21:31:25",
+  "originalStartTime" : "05/10/17 21:31:25",
+  "originalDuration" : 3174000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7654294164,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 2,
+    "name" : "sedentary"
+  },{
+    "minutes" : 13,
+    "name" : "lightly"
+  },{
+    "minutes" : 27,
+    "name" : "fairly"
+  },{
+    "minutes" : 4,
+    "name" : "very"
+  }],
+  "calories" : 236,
+  "duration" : 2816000,
+  "activeDuration" : 2816000,
+  "steps" : 2406,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "05/13/17 15:47:53",
+  "startTime" : "05/13/17 14:45:40",
+  "originalStartTime" : "05/13/17 14:45:40",
+  "originalDuration" : 2816000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7661252957,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 4,
+    "name" : "sedentary"
+  },{
+    "minutes" : 11,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "calories" : 49,
+  "duration" : 922000,
+  "activeDuration" : 922000,
+  "steps" : 287,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "05/13/17 23:40:21",
+  "startTime" : "05/13/17 23:22:47",
+  "originalStartTime" : "05/13/17 23:22:47",
+  "originalDuration" : 922000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7661917333,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 3,
+    "name" : "sedentary"
+  },{
+    "minutes" : 13,
+    "name" : "lightly"
+  },{
+    "minutes" : 6,
+    "name" : "fairly"
+  },{
+    "minutes" : 1,
+    "name" : "very"
+  }],
+  "calories" : 93,
+  "duration" : 1382000,
+  "activeDuration" : 1382000,
+  "steps" : 759,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "05/14/17 00:56:33",
+  "startTime" : "05/14/17 00:14:51",
+  "originalStartTime" : "05/14/17 00:14:51",
+  "originalDuration" : 1382000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7678176258,
+  "activityName" : "Outdoor Bike",
+  "activityTypeId" : 1071,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 3,
+    "name" : "lightly"
+  },{
+    "minutes" : 4,
+    "name" : "fairly"
+  },{
+    "minutes" : 27,
+    "name" : "very"
+  }],
+  "calories" : 277,
+  "duration" : 2048000,
+  "activeDuration" : 2048000,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "05/15/17 01:38:34",
+  "startTime" : "05/14/17 17:24:49",
+  "originalStartTime" : "05/14/17 17:24:49",
+  "originalDuration" : 2048000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7678176260,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 2,
+    "name" : "lightly"
+  },{
+    "minutes" : 3,
+    "name" : "fairly"
+  },{
+    "minutes" : 11,
+    "name" : "very"
+  }],
+  "calories" : 114,
+  "duration" : 1024000,
+  "activeDuration" : 1024000,
+  "steps" : 1325,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "05/15/17 01:38:34",
+  "startTime" : "05/14/17 21:04:07",
+  "originalStartTime" : "05/14/17 21:04:07",
+  "originalDuration" : 1024000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7678176261,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 1,
+    "name" : "fairly"
+  },{
+    "minutes" : 22,
+    "name" : "very"
+  }],
+  "calories" : 200,
+  "duration" : 1434000,
+  "activeDuration" : 1434000,
+  "steps" : 2447,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "05/15/17 01:38:34",
+  "startTime" : "05/14/17 23:05:17",
+  "originalStartTime" : "05/14/17 23:05:17",
+  "originalDuration" : 1434000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7694451953,
+  "activityName" : "Outdoor Bike",
+  "activityTypeId" : 1071,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 2,
+    "name" : "lightly"
+  },{
+    "minutes" : 11,
+    "name" : "fairly"
+  },{
+    "minutes" : 19,
+    "name" : "very"
+  }],
+  "calories" : 240,
+  "duration" : 1946000,
+  "activeDuration" : 1946000,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "05/15/17 21:14:42",
+  "startTime" : "05/15/17 18:27:32",
+  "originalStartTime" : "05/15/17 18:27:32",
+  "originalDuration" : 1946000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7712659196,
+  "activityName" : "Elliptical",
+  "activityTypeId" : 20047,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 1,
+    "name" : "fairly"
+  },{
+    "minutes" : 64,
+    "name" : "very"
+  }],
+  "calories" : 844,
+  "duration" : 3943000,
+  "activeDuration" : 3943000,
+  "steps" : 8416,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "05/16/17 17:48:55",
+  "startTime" : "05/16/17 16:41:19",
+  "originalStartTime" : "05/16/17 16:41:19",
+  "originalDuration" : 3943000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7731652332,
+  "activityName" : "Elliptical Trainer (MyFitnessPal)",
+  "activityTypeId" : 5493232,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 66,
+    "name" : "very"
+  }],
+  "calories" : 733,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 3960000,
+  "activeDuration" : 3960000,
+  "steps" : 8773,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "05/18/17 14:29:21",
+  "startTime" : "05/18/17 13:23:00",
+  "originalStartTime" : "05/18/17 13:23:00",
+  "originalDuration" : 3960000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7762822584,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 18,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "calories" : 78,
+  "duration" : 1177000,
+  "activeDuration" : 1177000,
+  "steps" : 628,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "05/19/17 01:11:00",
+  "startTime" : "05/19/17 00:27:15",
+  "originalStartTime" : "05/19/17 00:27:15",
+  "originalDuration" : 1177000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7796277099,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 1,
+    "name" : "lightly"
+  },{
+    "minutes" : 4,
+    "name" : "fairly"
+  },{
+    "minutes" : 17,
+    "name" : "very"
+  }],
+  "calories" : 169,
+  "duration" : 1382000,
+  "activeDuration" : 1382000,
+  "steps" : 2007,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "05/20/17 22:54:40",
+  "startTime" : "05/20/17 22:23:31",
+  "originalStartTime" : "05/20/17 22:23:31",
+  "originalDuration" : 1382000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7808622947,
+  "activityName" : "Elliptical",
+  "activityTypeId" : 20047,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 1,
+    "name" : "lightly"
+  },{
+    "minutes" : 1,
+    "name" : "fairly"
+  },{
+    "minutes" : 34,
+    "name" : "very"
+  }],
+  "calories" : 522,
+  "duration" : 2150000,
+  "activeDuration" : 2150000,
+  "steps" : 4971,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "05/21/17 18:38:32",
+  "startTime" : "05/21/17 18:00:17",
+  "originalStartTime" : "05/21/17 18:00:17",
+  "originalDuration" : 2150000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7830571669,
+  "activityName" : "Outdoor Bike",
+  "activityTypeId" : 1071,
+  "activityLevel" : [{
+    "minutes" : 8,
+    "name" : "sedentary"
+  },{
+    "minutes" : 4,
+    "name" : "lightly"
+  },{
+    "minutes" : 13,
+    "name" : "fairly"
+  },{
+    "minutes" : 49,
+    "name" : "very"
+  }],
+  "calories" : 526,
+  "duration" : 4455000,
+  "activeDuration" : 4455000,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "05/22/17 20:26:36",
+  "startTime" : "05/22/17 18:57:01",
+  "originalStartTime" : "05/22/17 18:57:01",
+  "originalDuration" : 4455000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7833336045,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 22,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "calories" : 94,
+  "duration" : 1383000,
+  "activeDuration" : 1383000,
+  "steps" : 694,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "05/22/17 23:35:50",
+  "startTime" : "05/22/17 23:04:30",
+  "originalStartTime" : "05/22/17 23:04:30",
+  "originalDuration" : 1383000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7842861066,
+  "activityName" : "Elliptical",
+  "activityTypeId" : 20047,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 1,
+    "name" : "lightly"
+  },{
+    "minutes" : 1,
+    "name" : "fairly"
+  },{
+    "minutes" : 34,
+    "name" : "very"
+  }],
+  "calories" : 522,
+  "duration" : 2149000,
+  "activeDuration" : 2149000,
+  "steps" : 4965,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "05/23/17 14:16:36",
+  "startTime" : "05/23/17 13:24:40",
+  "originalStartTime" : "05/23/17 13:24:40",
+  "originalDuration" : 2149000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7911937859,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 10,
+    "name" : "lightly"
+  },{
+    "minutes" : 4,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "calories" : 62,
+  "duration" : 922000,
+  "activeDuration" : 922000,
+  "steps" : 520,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "05/27/17 02:39:01",
+  "startTime" : "05/26/17 16:01:10",
+  "originalStartTime" : "05/26/17 16:01:10",
+  "originalDuration" : 922000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7954901255,
+  "activityName" : "Outdoor Bike",
+  "activityTypeId" : 1071,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 2,
+    "name" : "lightly"
+  },{
+    "minutes" : 10,
+    "name" : "fairly"
+  },{
+    "minutes" : 48,
+    "name" : "very"
+  }],
+  "calories" : 493,
+  "duration" : 3636000,
+  "activeDuration" : 3636000,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "05/29/17 17:16:00",
+  "startTime" : "05/29/17 16:03:19",
+  "originalStartTime" : "05/29/17 16:03:19",
+  "originalDuration" : 3636000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7957898135,
+  "activityName" : "Elliptical",
+  "activityTypeId" : 20047,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 35,
+    "name" : "very"
+  }],
+  "calories" : 516,
+  "duration" : 2151000,
+  "activeDuration" : 2151000,
+  "steps" : 4916,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "05/29/17 20:30:33",
+  "startTime" : "05/29/17 19:52:51",
+  "originalStartTime" : "05/29/17 19:52:51",
+  "originalDuration" : 2151000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7969854418,
+  "activityName" : "Elliptical",
+  "activityTypeId" : 20047,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 1,
+    "name" : "fairly"
+  },{
+    "minutes" : 34,
+    "name" : "very"
+  }],
+  "calories" : 542,
+  "duration" : 2202000,
+  "activeDuration" : 2202000,
+  "steps" : 5129,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "05/30/17 14:11:22",
+  "startTime" : "05/30/17 13:19:03",
+  "originalStartTime" : "05/30/17 13:19:03",
+  "originalDuration" : 2202000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7996061369,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 17,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "calories" : 91,
+  "duration" : 1075000,
+  "activeDuration" : 1075000,
+  "steps" : 976,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "05/31/17 17:36:20",
+  "startTime" : "05/30/17 20:49:38",
+  "originalStartTime" : "05/30/17 20:49:38",
+  "originalDuration" : 1075000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 7996061370,
+  "activityName" : "Elliptical",
+  "activityTypeId" : 20047,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 1,
+    "name" : "lightly"
+  },{
+    "minutes" : 1,
+    "name" : "fairly"
+  },{
+    "minutes" : 14,
+    "name" : "very"
+  }],
+  "calories" : 195,
+  "duration" : 973000,
+  "activeDuration" : 973000,
+  "steps" : 1898,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "05/31/17 17:36:20",
+  "startTime" : "05/31/17 15:32:37",
+  "originalStartTime" : "05/31/17 15:32:37",
+  "originalDuration" : 973000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 8000151956,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 2,
+    "name" : "sedentary"
+  },{
+    "minutes" : 13,
+    "name" : "lightly"
+  },{
+    "minutes" : 10,
+    "name" : "fairly"
+  },{
+    "minutes" : 4,
+    "name" : "very"
+  }],
+  "calories" : 151,
+  "duration" : 1792000,
+  "activeDuration" : 1792000,
+  "steps" : 1529,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "05/31/17 22:10:12",
+  "startTime" : "05/31/17 21:31:52",
+  "originalStartTime" : "05/31/17 21:31:52",
+  "originalDuration" : 1792000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 8015976388,
+  "activityName" : "Elliptical Trainer (MyFitnessPal)",
+  "activityTypeId" : 5493232,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 36,
+    "name" : "very"
+  }],
+  "calories" : 422,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 2160000,
+  "activeDuration" : 2160000,
+  "steps" : 5156,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "06/01/17 19:12:37",
+  "startTime" : "06/01/17 18:34:00",
+  "originalStartTime" : "06/01/17 18:34:00",
+  "originalDuration" : 2160000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 8031955666,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 2,
+    "name" : "lightly"
+  },{
+    "minutes" : 20,
+    "name" : "fairly"
+  },{
+    "minutes" : 1,
+    "name" : "very"
+  }],
+  "calories" : 130,
+  "duration" : 1381000,
+  "activeDuration" : 1381000,
+  "steps" : 1419,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "06/02/17 14:30:06",
+  "startTime" : "06/02/17 13:53:39",
+  "originalStartTime" : "06/02/17 13:53:39",
+  "originalDuration" : 1381000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 8071305471,
+  "activityName" : "Elliptical Trainer (MyFitnessPal)",
+  "activityTypeId" : 5493232,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 36,
+    "name" : "very"
+  }],
+  "calories" : 419,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 2160000,
+  "activeDuration" : 2160000,
+  "steps" : 5214,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "06/05/17 14:05:22",
+  "startTime" : "06/05/17 13:26:00",
+  "originalStartTime" : "06/05/17 13:26:00",
+  "originalDuration" : 2160000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 8112448974,
+  "activityName" : "Outdoor Bike",
+  "activityTypeId" : 1071,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 1,
+    "name" : "lightly"
+  },{
+    "minutes" : 7,
+    "name" : "fairly"
+  },{
+    "minutes" : 48,
+    "name" : "very"
+  }],
+  "calories" : 475,
+  "duration" : 3327000,
+  "activeDuration" : 3327000,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "06/06/17 20:51:46",
+  "startTime" : "06/06/17 19:47:41",
+  "originalStartTime" : "06/06/17 19:47:41",
+  "originalDuration" : 3327000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 8115305779,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 8,
+    "name" : "lightly"
+  },{
+    "minutes" : 28,
+    "name" : "fairly"
+  },{
+    "minutes" : 3,
+    "name" : "very"
+  }],
+  "calories" : 227,
+  "duration" : 2406000,
+  "activeDuration" : 2406000,
+  "steps" : 2445,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "06/07/17 00:20:00",
+  "startTime" : "06/06/17 23:15:03",
+  "originalStartTime" : "06/06/17 23:15:03",
+  "originalDuration" : 2406000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 8128457956,
+  "activityName" : "Elliptical Trainer (MyFitnessPal)",
+  "activityTypeId" : 5493232,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 36,
+    "name" : "very"
+  }],
+  "calories" : 420,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 2160000,
+  "activeDuration" : 2160000,
+  "steps" : 5152,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "06/07/17 19:00:29",
+  "startTime" : "06/07/17 18:22:00",
+  "originalStartTime" : "06/07/17 18:22:00",
+  "originalDuration" : 2160000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+}]

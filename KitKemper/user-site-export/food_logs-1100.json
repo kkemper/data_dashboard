@@ -1,0 +1,81 @@
+[{
+  "logId" : 1143799,
+  "loggedFood" : {
+    "foodId" : 15410,
+    "locale" : "en_US",
+    "name" : "Special K Red Berry",
+    "brand" : "Kellogg's",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 114,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2010-02-05",
+  "favorite" : true
+},{
+  "logId" : 1143800,
+  "loggedFood" : {
+    "foodId" : 81993,
+    "locale" : "en_US",
+    "name" : "Skim Milk",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,209,189,128,364,349,91,256,279,401],
+    "calories" : 44,
+    "amount" : 0.5,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2010-02-05",
+  "favorite" : true
+},{
+  "logId" : 1131472,
+  "loggedFood" : {
+    "foodId" : 15410,
+    "locale" : "en_US",
+    "name" : "Special K Red Berry",
+    "brand" : "Kellogg's",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 114,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 7
+  },
+  "logDate" : "2010-02-04",
+  "favorite" : true
+},{
+  "logId" : 1131474,
+  "loggedFood" : {
+    "foodId" : 81993,
+    "locale" : "en_US",
+    "name" : "Skim Milk",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,209,189,128,364,349,91,256,279,401],
+    "calories" : 44,
+    "amount" : 0.5,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 7
+  },
+  "logDate" : "2010-02-04",
+  "favorite" : true
+}]

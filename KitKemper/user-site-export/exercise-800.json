@@ -1,0 +1,3940 @@
+[{
+  "logId" : 11950513081,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 2,
+    "name" : "lightly"
+  },{
+    "minutes" : 11,
+    "name" : "fairly"
+  },{
+    "minutes" : 8,
+    "name" : "very"
+  }],
+  "calories" : 137,
+  "duration" : 1331000,
+  "activeDuration" : 1331000,
+  "steps" : 1546,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "01/22/18 02:43:55",
+  "startTime" : "01/21/18 21:46:17",
+  "originalStartTime" : "01/21/18 21:46:17",
+  "originalDuration" : 1331000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 11928871754,
+  "activityName" : "Aerobics, general (MyFitnessPal)",
+  "activityTypeId" : 8886341,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 42,
+    "name" : "very"
+  }],
+  "calories" : 422,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 2520000,
+  "activeDuration" : 2520000,
+  "steps" : 900,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "01/22/18 15:18:44",
+  "startTime" : "01/22/18 14:37:00",
+  "originalStartTime" : "01/22/18 14:37:00",
+  "originalDuration" : 2520000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 11930201819,
+  "activityName" : "Elliptical Trainer (MyFitnessPal)",
+  "activityTypeId" : 5493232,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 26,
+    "name" : "very"
+  }],
+  "calories" : 265,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 1560000,
+  "activeDuration" : 1560000,
+  "steps" : 3540,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "01/22/18 15:49:45",
+  "startTime" : "01/22/18 15:21:00",
+  "originalStartTime" : "01/22/18 15:21:00",
+  "originalDuration" : 1560000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 11964013670,
+  "activityName" : "Elliptical Trainer (MyFitnessPal)",
+  "activityTypeId" : 5493232,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 1,
+    "name" : "fairly"
+  },{
+    "minutes" : 65,
+    "name" : "very"
+  }],
+  "calories" : 841,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 3960000,
+  "activeDuration" : 3960000,
+  "steps" : 9274,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "01/23/18 20:50:34",
+  "startTime" : "01/23/18 19:41:00",
+  "originalStartTime" : "01/23/18 19:41:00",
+  "originalDuration" : 3960000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 11983739131,
+  "activityName" : "Elliptical Trainer (MyFitnessPal)",
+  "activityTypeId" : 5493232,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 65,
+    "name" : "very"
+  }],
+  "calories" : 841,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 3900000,
+  "activeDuration" : 3900000,
+  "steps" : 9145,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "01/23/18 21:30:40",
+  "startTime" : "01/23/18 19:41:00",
+  "originalStartTime" : "01/23/18 19:41:00",
+  "originalDuration" : 3900000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 11963319832,
+  "activityName" : "Apple Health App Workout (MyFitnessPal)",
+  "activityTypeId" : 31602499,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 2,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "calories" : 12,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 120000,
+  "activeDuration" : 120000,
+  "steps" : 232,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "01/23/18 21:00:05",
+  "startTime" : "01/23/18 20:46:00",
+  "originalStartTime" : "01/23/18 20:46:00",
+  "originalDuration" : 120000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 11995365964,
+  "activityName" : "Aerobics, general (MyFitnessPal)",
+  "activityTypeId" : 8886341,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 86,
+    "name" : "very"
+  }],
+  "calories" : 863,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 5160000,
+  "activeDuration" : 5160000,
+  "steps" : 1278,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "01/24/18 21:57:21",
+  "startTime" : "01/24/18 20:07:00",
+  "originalStartTime" : "01/24/18 20:07:00",
+  "originalDuration" : 5160000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 11995948861,
+  "activityName" : "Elliptical Trainer (MyFitnessPal)",
+  "activityTypeId" : 5493232,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 46,
+    "name" : "very"
+  }],
+  "calories" : 579,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 2760000,
+  "activeDuration" : 2760000,
+  "steps" : 6028,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "01/25/18 19:28:51",
+  "startTime" : "01/25/18 18:40:00",
+  "originalStartTime" : "01/25/18 18:40:00",
+  "originalDuration" : 2760000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 12067186141,
+  "activityName" : "Elliptical Trainer (MyFitnessPal)",
+  "activityTypeId" : 5493232,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 66,
+    "name" : "very"
+  }],
+  "calories" : 838,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 3960000,
+  "activeDuration" : 3960000,
+  "steps" : 8855,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "01/28/18 21:52:55",
+  "startTime" : "01/28/18 20:44:00",
+  "originalStartTime" : "01/28/18 20:44:00",
+  "originalDuration" : 3960000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 12067141011,
+  "activityName" : "Aerobics, general (MyFitnessPal)",
+  "activityTypeId" : 8886341,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 47,
+    "name" : "very"
+  }],
+  "calories" : 474,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 2820000,
+  "activeDuration" : 2820000,
+  "steps" : 1232,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "01/29/18 16:01:46",
+  "startTime" : "01/29/18 14:29:00",
+  "originalStartTime" : "01/29/18 14:29:00",
+  "originalDuration" : 2820000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 12096634642,
+  "activityName" : "Elliptical Trainer (MyFitnessPal)",
+  "activityTypeId" : 5493232,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 66,
+    "name" : "very"
+  }],
+  "calories" : 752,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 3960000,
+  "activeDuration" : 3960000,
+  "steps" : 8878,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "01/30/18 15:33:56",
+  "startTime" : "01/30/18 14:26:00",
+  "originalStartTime" : "01/30/18 14:26:00",
+  "originalDuration" : 3960000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 12136420569,
+  "activityName" : "Aerobics, general (MyFitnessPal)",
+  "activityTypeId" : 8886341,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 37,
+    "name" : "very"
+  }],
+  "calories" : 374,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 2220000,
+  "activeDuration" : 2220000,
+  "steps" : 821,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "01/31/18 21:19:13",
+  "startTime" : "01/31/18 19:08:00",
+  "originalStartTime" : "01/31/18 19:08:00",
+  "originalDuration" : 2220000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 12135895428,
+  "activityName" : "Elliptical Trainer (MyFitnessPal)",
+  "activityTypeId" : 5493232,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 36,
+    "name" : "very"
+  }],
+  "calories" : 444,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 2160000,
+  "activeDuration" : 2160000,
+  "steps" : 4893,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "02/01/18 20:26:28",
+  "startTime" : "02/01/18 19:48:00",
+  "originalStartTime" : "02/01/18 19:48:00",
+  "originalDuration" : 2160000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 12170283367,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 1,
+    "name" : "lightly"
+  },{
+    "minutes" : 3,
+    "name" : "fairly"
+  },{
+    "minutes" : 11,
+    "name" : "very"
+  }],
+  "calories" : 121,
+  "duration" : 921000,
+  "activeDuration" : 921000,
+  "steps" : 1450,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "02/02/18 13:33:04",
+  "startTime" : "02/01/18 20:47:05",
+  "originalStartTime" : "02/01/18 20:47:05",
+  "originalDuration" : 921000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 12175795765,
+  "activityName" : "Aerobics, general (MyFitnessPal)",
+  "activityTypeId" : 8886341,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 51,
+    "name" : "very"
+  }],
+  "calories" : 516,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 3060000,
+  "activeDuration" : 3060000,
+  "steps" : 1324,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "02/02/18 20:36:08",
+  "startTime" : "02/02/18 19:38:00",
+  "originalStartTime" : "02/02/18 19:38:00",
+  "originalDuration" : 3060000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 12177447673,
+  "activityName" : "Elliptical Trainer (MyFitnessPal)",
+  "activityTypeId" : 5493232,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 36,
+    "name" : "very"
+  }],
+  "calories" : 434,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 2160000,
+  "activeDuration" : 2160000,
+  "steps" : 4293,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "02/03/18 17:35:25",
+  "startTime" : "02/03/18 16:57:00",
+  "originalStartTime" : "02/03/18 16:57:00",
+  "originalDuration" : 2160000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 12213544181,
+  "activityName" : "Aerobics, general (MyFitnessPal)",
+  "activityTypeId" : 8886341,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 47,
+    "name" : "very"
+  }],
+  "calories" : 476,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 2820000,
+  "activeDuration" : 2820000,
+  "steps" : 663,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "02/05/18 15:14:53",
+  "startTime" : "02/05/18 14:28:00",
+  "originalStartTime" : "02/05/18 14:28:00",
+  "originalDuration" : 2820000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 12227946952,
+  "activityName" : "Elliptical Trainer (MyFitnessPal)",
+  "activityTypeId" : 5493232,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 66,
+    "name" : "very"
+  }],
+  "calories" : 837,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 3960000,
+  "activeDuration" : 3960000,
+  "steps" : 8570,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "02/06/18 15:44:40",
+  "startTime" : "02/06/18 14:36:00",
+  "originalStartTime" : "02/06/18 14:36:00",
+  "originalDuration" : 3960000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 12252927095,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 3,
+    "name" : "lightly"
+  },{
+    "minutes" : 9,
+    "name" : "fairly"
+  },{
+    "minutes" : 3,
+    "name" : "very"
+  }],
+  "calories" : 89,
+  "duration" : 973000,
+  "activeDuration" : 973000,
+  "steps" : 946,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "02/06/18 22:24:29",
+  "startTime" : "02/06/18 16:17:53",
+  "originalStartTime" : "02/06/18 16:17:53",
+  "originalDuration" : 973000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 12252927096,
+  "activityName" : "Aerobic Workout",
+  "activityTypeId" : 3001,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 2,
+    "name" : "lightly"
+  },{
+    "minutes" : 6,
+    "name" : "fairly"
+  },{
+    "minutes" : 7,
+    "name" : "very"
+  }],
+  "calories" : 104,
+  "duration" : 921000,
+  "activeDuration" : 921000,
+  "steps" : 1196,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "02/06/18 22:24:29",
+  "startTime" : "02/06/18 17:29:34",
+  "originalStartTime" : "02/06/18 17:29:34",
+  "originalDuration" : 921000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 12275735454,
+  "activityName" : "Rowing, stationary, moderate effort (MyFitnessPal)",
+  "activityTypeId" : 31888508,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 11,
+    "name" : "very"
+  }],
+  "calories" : 91,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 660000,
+  "activeDuration" : 660000,
+  "steps" : 0,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "02/08/18 12:40:54",
+  "startTime" : "02/07/18 14:32:00",
+  "originalStartTime" : "02/07/18 14:32:00",
+  "originalDuration" : 660000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 12277537836,
+  "activityName" : "Strength training (weight lifting, weight training) (MyFitnessPal)",
+  "activityTypeId" : 32795231,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 52,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "calories" : 257,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 3120000,
+  "activeDuration" : 3120000,
+  "steps" : 0,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "02/08/18 12:40:54",
+  "startTime" : "02/07/18 14:50:00",
+  "originalStartTime" : "02/07/18 14:50:00",
+  "originalDuration" : 3120000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 12277431816,
+  "activityName" : "Stair-treadmill ergometer, general (MyFitnessPal)",
+  "activityTypeId" : 32796414,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 16,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "calories" : 115,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 960000,
+  "activeDuration" : 960000,
+  "steps" : 0,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "02/08/18 12:40:54",
+  "startTime" : "02/07/18 15:51:00",
+  "originalStartTime" : "02/07/18 15:51:00",
+  "originalDuration" : 960000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 12278368899,
+  "activityName" : "Elliptical Trainer (MyFitnessPal)",
+  "activityTypeId" : 5493232,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 66,
+    "name" : "very"
+  }],
+  "calories" : 749,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 3960000,
+  "activeDuration" : 3960000,
+  "steps" : 8125,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "02/08/18 21:21:07",
+  "startTime" : "02/08/18 20:14:00",
+  "originalStartTime" : "02/08/18 20:14:00",
+  "originalDuration" : 3960000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 12275943341,
+  "activityName" : "Elliptical Trainer (MyFitnessPal)",
+  "activityTypeId" : 5493232,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 13,
+    "name" : "very"
+  }],
+  "calories" : 207,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 780000,
+  "activeDuration" : 780000,
+  "steps" : 1677,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "02/09/18 14:49:49",
+  "startTime" : "02/09/18 14:34:00",
+  "originalStartTime" : "02/09/18 14:34:00",
+  "originalDuration" : 780000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 12277457070,
+  "activityName" : "Elliptical Trainer (MyFitnessPal)",
+  "activityTypeId" : 5493232,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 14,
+    "name" : "very"
+  }],
+  "calories" : 118,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 840000,
+  "activeDuration" : 840000,
+  "steps" : 1791,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "02/09/18 17:27:30",
+  "startTime" : "02/09/18 14:34:00",
+  "originalStartTime" : "02/09/18 14:34:00",
+  "originalDuration" : 840000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 12278170039,
+  "activityName" : "Aerobics, general (MyFitnessPal)",
+  "activityTypeId" : 8886341,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 42,
+    "name" : "fairly"
+  },{
+    "minutes" : 3,
+    "name" : "very"
+  }],
+  "calories" : 456,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 2700000,
+  "activeDuration" : 2700000,
+  "steps" : 502,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "02/09/18 15:44:04",
+  "startTime" : "02/09/18 14:54:00",
+  "originalStartTime" : "02/09/18 14:54:00",
+  "originalDuration" : 2700000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 12275876444,
+  "activityName" : "Strength training (weight lifting, weight training) (MyFitnessPal)",
+  "activityTypeId" : 32795231,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 42,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "calories" : 205,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 2520000,
+  "activeDuration" : 2520000,
+  "steps" : 458,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "02/09/18 17:27:29",
+  "startTime" : "02/09/18 14:55:00",
+  "originalStartTime" : "02/09/18 14:55:00",
+  "originalDuration" : 2520000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 12275924779,
+  "activityName" : "Elliptical Trainer (MyFitnessPal)",
+  "activityTypeId" : 5493232,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 13,
+    "name" : "very"
+  }],
+  "calories" : 119,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 780000,
+  "activeDuration" : 780000,
+  "steps" : 1635,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "02/09/18 17:27:27",
+  "startTime" : "02/09/18 15:39:00",
+  "originalStartTime" : "02/09/18 15:39:00",
+  "originalDuration" : 780000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 12277360558,
+  "activityName" : "Elliptical Trainer (MyFitnessPal)",
+  "activityTypeId" : 5493232,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 14,
+    "name" : "very"
+  }],
+  "calories" : 159,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 840000,
+  "activeDuration" : 840000,
+  "steps" : 1747,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "02/09/18 15:54:43",
+  "startTime" : "02/09/18 15:39:00",
+  "originalStartTime" : "02/09/18 15:39:00",
+  "originalDuration" : 840000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 12315227344,
+  "activityName" : "Elliptical Trainer (MyFitnessPal)",
+  "activityTypeId" : 5493232,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 36,
+    "name" : "very"
+  }],
+  "calories" : 412,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 2160000,
+  "activeDuration" : 2160000,
+  "steps" : 4516,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "02/10/18 18:46:51",
+  "startTime" : "02/10/18 18:09:00",
+  "originalStartTime" : "02/10/18 18:09:00",
+  "originalDuration" : 2160000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 12426332222,
+  "activityName" : "Bicycling, &lt;10 mph, leisure (cycling, biking, bike riding) (MyFitnessPal)",
+  "activityTypeId" : 5504853,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 10,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "calories" : 47,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 600000,
+  "activeDuration" : 600000,
+  "steps" : 0,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "02/15/18 18:44:23",
+  "startTime" : "02/15/18 15:56:00",
+  "originalStartTime" : "02/15/18 15:56:00",
+  "originalDuration" : 600000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 12441235573,
+  "activityName" : "Elliptical",
+  "activityTypeId" : 20047,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 66,
+    "name" : "very"
+  }],
+  "calories" : 923,
+  "duration" : 3942000,
+  "activeDuration" : 3942000,
+  "steps" : 8640,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "02/16/18 13:39:39",
+  "startTime" : "02/15/18 20:49:44",
+  "originalStartTime" : "02/15/18 20:49:44",
+  "originalDuration" : 3942000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 12425542679,
+  "activityName" : "Elliptical Trainer (MyFitnessPal)",
+  "activityTypeId" : 5493232,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 65,
+    "name" : "very"
+  }],
+  "calories" : 827,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 3900000,
+  "activeDuration" : 3900000,
+  "steps" : 1483,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "02/15/18 21:55:54",
+  "startTime" : "02/15/18 21:54:00",
+  "originalStartTime" : "02/15/18 21:54:00",
+  "originalDuration" : 3900000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 12503448054,
+  "activityName" : "Elliptical Trainer (MyFitnessPal)",
+  "activityTypeId" : 5493232,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 66,
+    "name" : "very"
+  }],
+  "calories" : 835,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 3960000,
+  "activeDuration" : 3960000,
+  "steps" : 8288,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "02/20/18 19:16:06",
+  "startTime" : "02/20/18 18:08:00",
+  "originalStartTime" : "02/20/18 18:08:00",
+  "originalDuration" : 3960000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 12536973199,
+  "activityName" : "Elliptical Trainer (MyFitnessPal)",
+  "activityTypeId" : 5493232,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 65,
+    "name" : "very"
+  }],
+  "calories" : 834,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 3900000,
+  "activeDuration" : 3900000,
+  "steps" : 8363,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "02/22/18 15:39:56",
+  "startTime" : "02/22/18 14:32:00",
+  "originalStartTime" : "02/22/18 14:32:00",
+  "originalDuration" : 3900000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 12559364080,
+  "activityName" : "Aerobics, general (MyFitnessPal)",
+  "activityTypeId" : 8886341,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 38,
+    "name" : "very"
+  }],
+  "calories" : 375,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 2280000,
+  "activeDuration" : 2280000,
+  "steps" : 463,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "02/23/18 17:08:04",
+  "startTime" : "02/23/18 14:19:00",
+  "originalStartTime" : "02/23/18 14:19:00",
+  "originalDuration" : 2280000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 12600406292,
+  "activityName" : "Elliptical Trainer (MyFitnessPal)",
+  "activityTypeId" : 5493232,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 66,
+    "name" : "very"
+  }],
+  "calories" : 823,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 3960000,
+  "activeDuration" : 3960000,
+  "steps" : 8671,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "02/25/18 20:58:54",
+  "startTime" : "02/25/18 19:51:00",
+  "originalStartTime" : "02/25/18 19:51:00",
+  "originalDuration" : 3960000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 12599755419,
+  "activityName" : "Aerobics, general (MyFitnessPal)",
+  "activityTypeId" : 8886341,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 51,
+    "name" : "very"
+  }],
+  "calories" : 506,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 3060000,
+  "activeDuration" : 3060000,
+  "steps" : 908,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "02/26/18 20:25:54",
+  "startTime" : "02/26/18 19:22:00",
+  "originalStartTime" : "02/26/18 19:22:00",
+  "originalDuration" : 3060000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 12636406978,
+  "activityName" : "Elliptical Trainer (MyFitnessPal)",
+  "activityTypeId" : 5493232,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 66,
+    "name" : "very"
+  }],
+  "calories" : 827,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 3960000,
+  "activeDuration" : 3960000,
+  "steps" : 8968,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "02/27/18 15:37:36",
+  "startTime" : "02/27/18 14:29:00",
+  "originalStartTime" : "02/27/18 14:29:00",
+  "originalDuration" : 3960000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 12730720769,
+  "activityName" : "Aerobics, general (MyFitnessPal)",
+  "activityTypeId" : 8886341,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 45,
+    "name" : "very"
+  }],
+  "calories" : 446,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 2700000,
+  "activeDuration" : 2700000,
+  "steps" : 943,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "03/05/18 20:30:45",
+  "startTime" : "03/05/18 18:39:00",
+  "originalStartTime" : "03/05/18 18:39:00",
+  "originalDuration" : 2700000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 12766630220,
+  "activityName" : "Elliptical Trainer (MyFitnessPal)",
+  "activityTypeId" : 5493232,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 36,
+    "name" : "very"
+  }],
+  "calories" : 435,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 2160000,
+  "activeDuration" : 2160000,
+  "steps" : 4707,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "03/06/18 15:01:47",
+  "startTime" : "03/06/18 14:24:00",
+  "originalStartTime" : "03/06/18 14:24:00",
+  "originalDuration" : 2160000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 12799896017,
+  "activityName" : "Aerobics, general (MyFitnessPal)",
+  "activityTypeId" : 8886341,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 43,
+    "name" : "very"
+  }],
+  "calories" : 427,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 2580000,
+  "activeDuration" : 2580000,
+  "steps" : 722,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "03/08/18 15:12:34",
+  "startTime" : "03/08/18 14:30:00",
+  "originalStartTime" : "03/08/18 14:30:00",
+  "originalDuration" : 2580000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 12823496191,
+  "activityName" : "Aerobics, general (MyFitnessPal)",
+  "activityTypeId" : 8886341,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 53,
+    "name" : "very"
+  }],
+  "calories" : 519,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 3180000,
+  "activeDuration" : 3180000,
+  "steps" : 1119,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "03/10/18 18:09:25",
+  "startTime" : "03/10/18 17:04:00",
+  "originalStartTime" : "03/10/18 17:04:00",
+  "originalDuration" : 3180000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 12865203203,
+  "activityName" : "Aerobics, general (MyFitnessPal)",
+  "activityTypeId" : 8886341,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 44,
+    "name" : "very"
+  }],
+  "calories" : 436,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 2640000,
+  "activeDuration" : 2640000,
+  "steps" : 585,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "03/12/18 18:42:44",
+  "startTime" : "03/12/18 17:28:00",
+  "originalStartTime" : "03/12/18 17:28:00",
+  "originalDuration" : 2640000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 12903831614,
+  "activityName" : "Elliptical Trainer (MyFitnessPal)",
+  "activityTypeId" : 5493232,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 66,
+    "name" : "very"
+  }],
+  "calories" : 824,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 3960000,
+  "activeDuration" : 3960000,
+  "steps" : 8377,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "03/13/18 18:36:47",
+  "startTime" : "03/13/18 17:29:00",
+  "originalStartTime" : "03/13/18 17:29:00",
+  "originalDuration" : 3960000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 12920914060,
+  "activityName" : "Aerobics, general (MyFitnessPal)",
+  "activityTypeId" : 8886341,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 49,
+    "name" : "very"
+  }],
+  "calories" : 485,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 2940000,
+  "activeDuration" : 2940000,
+  "steps" : 851,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "03/14/18 19:26:07",
+  "startTime" : "03/14/18 18:33:00",
+  "originalStartTime" : "03/14/18 18:33:00",
+  "originalDuration" : 2940000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 12959060690,
+  "activityName" : "Elliptical Trainer (MyFitnessPal)",
+  "activityTypeId" : 5493232,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 66,
+    "name" : "very"
+  }],
+  "calories" : 826,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 3960000,
+  "activeDuration" : 3960000,
+  "steps" : 8711,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "03/15/18 20:32:03",
+  "startTime" : "03/15/18 19:24:00",
+  "originalStartTime" : "03/15/18 19:24:00",
+  "originalDuration" : 3960000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 12963657003,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 13,
+    "name" : "lightly"
+  },{
+    "minutes" : 17,
+    "name" : "fairly"
+  },{
+    "minutes" : 3,
+    "name" : "very"
+  }],
+  "calories" : 193,
+  "duration" : 2048000,
+  "activeDuration" : 2048000,
+  "steps" : 2133,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "03/16/18 00:20:16",
+  "startTime" : "03/15/18 21:25:50",
+  "originalStartTime" : "03/15/18 21:25:50",
+  "originalDuration" : 2048000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 12973749847,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 2,
+    "name" : "lightly"
+  },{
+    "minutes" : 6,
+    "name" : "fairly"
+  },{
+    "minutes" : 8,
+    "name" : "very"
+  }],
+  "calories" : 111,
+  "duration" : 973000,
+  "activeDuration" : 973000,
+  "steps" : 1298,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "03/16/18 15:35:06",
+  "startTime" : "03/16/18 00:42:06",
+  "originalStartTime" : "03/16/18 00:42:06",
+  "originalDuration" : 973000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 12956337013,
+  "activityName" : "Aerobics, general (MyFitnessPal)",
+  "activityTypeId" : 8886341,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 33,
+    "name" : "fairly"
+  },{
+    "minutes" : 9,
+    "name" : "very"
+  }],
+  "calories" : 412,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 2520000,
+  "activeDuration" : 2520000,
+  "steps" : 950,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "03/16/18 16:24:43",
+  "startTime" : "03/16/18 15:42:00",
+  "originalStartTime" : "03/16/18 15:42:00",
+  "originalDuration" : 2520000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 12978878239,
+  "activityName" : "Strength training (weight lifting, weight training) (MyFitnessPal)",
+  "activityTypeId" : 32795231,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 33,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "calories" : 167,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 1980000,
+  "activeDuration" : 1980000,
+  "steps" : 604,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "03/16/18 18:20:57",
+  "startTime" : "03/16/18 15:50:00",
+  "originalStartTime" : "03/16/18 15:50:00",
+  "originalDuration" : 1980000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 12986208992,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 1,
+    "name" : "lightly"
+  },{
+    "minutes" : 9,
+    "name" : "fairly"
+  },{
+    "minutes" : 5,
+    "name" : "very"
+  }],
+  "calories" : 104,
+  "duration" : 972000,
+  "activeDuration" : 972000,
+  "steps" : 1209,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "03/17/18 01:41:20",
+  "startTime" : "03/16/18 23:54:45",
+  "originalStartTime" : "03/16/18 23:54:45",
+  "originalDuration" : 972000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 12977976481,
+  "activityName" : "Elliptical Trainer (MyFitnessPal)",
+  "activityTypeId" : 5493232,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 36,
+    "name" : "very"
+  }],
+  "calories" : 401,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 2160000,
+  "activeDuration" : 2160000,
+  "steps" : 4696,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "03/17/18 19:59:00",
+  "startTime" : "03/17/18 19:20:00",
+  "originalStartTime" : "03/17/18 19:20:00",
+  "originalDuration" : 2160000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 13052804090,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 3,
+    "name" : "sedentary"
+  },{
+    "minutes" : 4,
+    "name" : "lightly"
+  },{
+    "minutes" : 6,
+    "name" : "fairly"
+  },{
+    "minutes" : 9,
+    "name" : "very"
+  }],
+  "calories" : 125,
+  "duration" : 1331000,
+  "activeDuration" : 1331000,
+  "steps" : 1378,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "03/20/18 18:04:06",
+  "startTime" : "03/20/18 08:22:04",
+  "originalStartTime" : "03/20/18 08:22:04",
+  "originalDuration" : 1331000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 13067041452,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 4,
+    "name" : "lightly"
+  },{
+    "minutes" : 24,
+    "name" : "fairly"
+  },{
+    "minutes" : 12,
+    "name" : "very"
+  }],
+  "calories" : 261,
+  "duration" : 2458000,
+  "activeDuration" : 2458000,
+  "steps" : 3058,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "03/21/18 10:43:08",
+  "startTime" : "03/20/18 19:19:08",
+  "originalStartTime" : "03/20/18 19:19:08",
+  "originalDuration" : 2458000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 13080980452,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 6,
+    "name" : "lightly"
+  },{
+    "minutes" : 20,
+    "name" : "fairly"
+  },{
+    "minutes" : 22,
+    "name" : "very"
+  }],
+  "calories" : 320,
+  "duration" : 2970000,
+  "activeDuration" : 2970000,
+  "steps" : 3720,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "03/21/18 21:31:53",
+  "startTime" : "03/21/18 14:33:42",
+  "originalStartTime" : "03/21/18 14:33:42",
+  "originalDuration" : 2970000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 13074372925,
+  "activityName" : "Aerobics, general (MyFitnessPal)",
+  "activityTypeId" : 8886341,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 42,
+    "name" : "very"
+  }],
+  "calories" : 408,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 2520000,
+  "activeDuration" : 2520000,
+  "steps" : 820,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "03/21/18 21:55:27",
+  "startTime" : "03/21/18 21:13:00",
+  "originalStartTime" : "03/21/18 21:13:00",
+  "originalDuration" : 2520000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 13119579237,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 6,
+    "name" : "sedentary"
+  },{
+    "minutes" : 25,
+    "name" : "lightly"
+  },{
+    "minutes" : 16,
+    "name" : "fairly"
+  },{
+    "minutes" : 14,
+    "name" : "very"
+  }],
+  "calories" : 332,
+  "duration" : 3687000,
+  "activeDuration" : 3687000,
+  "steps" : 3599,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "03/23/18 12:48:39",
+  "startTime" : "03/22/18 17:13:38",
+  "originalStartTime" : "03/22/18 17:13:38",
+  "originalDuration" : 3687000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 13198713343,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 3,
+    "name" : "lightly"
+  },{
+    "minutes" : 12,
+    "name" : "fairly"
+  },{
+    "minutes" : 17,
+    "name" : "very"
+  }],
+  "calories" : 215,
+  "duration" : 1895000,
+  "activeDuration" : 1895000,
+  "steps" : 2508,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "03/27/18 14:24:55",
+  "startTime" : "03/23/18 13:10:52",
+  "originalStartTime" : "03/23/18 13:10:52",
+  "originalDuration" : 1895000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 13306085961,
+  "activityName" : "Aerobics, general (MyFitnessPal)",
+  "activityTypeId" : 8886341,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 44,
+    "name" : "very"
+  }],
+  "calories" : 434,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 2640000,
+  "activeDuration" : 2640000,
+  "steps" : 626,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "04/02/18 17:54:24",
+  "startTime" : "04/02/18 17:10:00",
+  "originalStartTime" : "04/02/18 17:10:00",
+  "originalDuration" : 2640000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 13317789827,
+  "activityName" : "Elliptical Trainer (MyFitnessPal)",
+  "activityTypeId" : 5493232,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 66,
+    "name" : "very"
+  }],
+  "calories" : 827,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 3960000,
+  "activeDuration" : 3960000,
+  "steps" : 8771,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "04/03/18 14:50:11",
+  "startTime" : "04/03/18 13:42:00",
+  "originalStartTime" : "04/03/18 13:42:00",
+  "originalDuration" : 3960000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 13338692092,
+  "activityName" : "Aerobics, general (MyFitnessPal)",
+  "activityTypeId" : 8886341,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 37,
+    "name" : "very"
+  }],
+  "calories" : 363,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 2220000,
+  "activeDuration" : 2220000,
+  "steps" : 1046,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "04/05/18 14:11:48",
+  "startTime" : "04/05/18 13:35:00",
+  "originalStartTime" : "04/05/18 13:35:00",
+  "originalDuration" : 2220000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 13377778286,
+  "activityName" : "Aerobics, general (MyFitnessPal)",
+  "activityTypeId" : 8886341,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 56,
+    "name" : "very"
+  }],
+  "calories" : 545,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 3360000,
+  "activeDuration" : 3360000,
+  "steps" : 1304,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "04/07/18 18:14:47",
+  "startTime" : "04/07/18 17:17:00",
+  "originalStartTime" : "04/07/18 17:17:00",
+  "originalDuration" : 3360000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 13455276282,
+  "activityName" : "Aerobics, general (MyFitnessPal)",
+  "activityTypeId" : 8886341,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 46,
+    "name" : "very"
+  }],
+  "calories" : 448,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 2760000,
+  "activeDuration" : 2760000,
+  "steps" : 694,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "04/09/18 18:56:31",
+  "startTime" : "04/09/18 18:09:00",
+  "originalStartTime" : "04/09/18 18:09:00",
+  "originalDuration" : 2760000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 13489762287,
+  "activityName" : "Aerobics, general (MyFitnessPal)",
+  "activityTypeId" : 8886341,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 40,
+    "name" : "very"
+  }],
+  "calories" : 389,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 2400000,
+  "activeDuration" : 2400000,
+  "steps" : 491,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "04/12/18 19:14:07",
+  "startTime" : "04/12/18 18:34:00",
+  "originalStartTime" : "04/12/18 18:34:00",
+  "originalDuration" : 2400000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 13524080608,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 13,
+    "name" : "lightly"
+  },{
+    "minutes" : 9,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "calories" : 96,
+  "duration" : 1382000,
+  "activeDuration" : 1382000,
+  "steps" : 818,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "04/13/18 00:13:43",
+  "startTime" : "04/12/18 22:53:03",
+  "originalStartTime" : "04/12/18 22:53:03",
+  "originalDuration" : 1382000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 13529931469,
+  "activityName" : "Elliptical Trainer (MyFitnessPal)",
+  "activityTypeId" : 5493232,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 66,
+    "name" : "very"
+  }],
+  "calories" : 780,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 3960000,
+  "activeDuration" : 3960000,
+  "steps" : 8719,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "04/13/18 15:24:00",
+  "startTime" : "04/13/18 14:15:00",
+  "originalStartTime" : "04/13/18 14:15:00",
+  "originalDuration" : 3960000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 13542723479,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 4,
+    "name" : "lightly"
+  },{
+    "minutes" : 3,
+    "name" : "fairly"
+  },{
+    "minutes" : 22,
+    "name" : "very"
+  }],
+  "calories" : 215,
+  "duration" : 1792000,
+  "activeDuration" : 1792000,
+  "steps" : 2551,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "04/13/18 22:03:32",
+  "startTime" : "04/13/18 21:16:12",
+  "originalStartTime" : "04/13/18 21:16:12",
+  "originalDuration" : 1792000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 13602495905,
+  "activityName" : "Elliptical Trainer (MyFitnessPal)",
+  "activityTypeId" : 5493232,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 66,
+    "name" : "very"
+  }],
+  "calories" : 827,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 3960000,
+  "activeDuration" : 3960000,
+  "steps" : 8661,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "04/17/18 14:50:01",
+  "startTime" : "04/17/18 13:41:00",
+  "originalStartTime" : "04/17/18 13:41:00",
+  "originalDuration" : 3960000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 13617530715,
+  "activityName" : "Yoga (MyFitnessPal)",
+  "activityTypeId" : 34139341,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 33,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "calories" : 155,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 1980000,
+  "activeDuration" : 1980000,
+  "steps" : 58,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "04/17/18 20:41:04",
+  "startTime" : "04/17/18 15:46:00",
+  "originalStartTime" : "04/17/18 15:46:00",
+  "originalDuration" : 1980000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 13666355215,
+  "activityName" : "Elliptical Trainer (MyFitnessPal)",
+  "activityTypeId" : 5493232,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 66,
+    "name" : "very"
+  }],
+  "calories" : 829,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 3960000,
+  "activeDuration" : 3960000,
+  "steps" : 9115,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "04/20/18 14:45:09",
+  "startTime" : "04/20/18 13:36:00",
+  "originalStartTime" : "04/20/18 13:36:00",
+  "originalDuration" : 3960000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 13709967818,
+  "activityName" : "Elliptical Trainer (MyFitnessPal)",
+  "activityTypeId" : 5493232,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 14,
+    "name" : "very"
+  }],
+  "calories" : 155,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 840000,
+  "activeDuration" : 840000,
+  "steps" : 1765,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "04/21/18 20:17:53",
+  "startTime" : "04/21/18 20:01:00",
+  "originalStartTime" : "04/21/18 20:01:00",
+  "originalDuration" : 840000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 13711721955,
+  "activityName" : "Aerobics, general (MyFitnessPal)",
+  "activityTypeId" : 8886341,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 50,
+    "name" : "very"
+  }],
+  "calories" : 484,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 3000000,
+  "activeDuration" : 3000000,
+  "steps" : 1163,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "04/21/18 21:08:54",
+  "startTime" : "04/21/18 20:19:00",
+  "originalStartTime" : "04/21/18 20:19:00",
+  "originalDuration" : 3000000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 13710980001,
+  "activityName" : "Elliptical Trainer (MyFitnessPal)",
+  "activityTypeId" : 5493232,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 14,
+    "name" : "very"
+  }],
+  "calories" : 155,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 840000,
+  "activeDuration" : 840000,
+  "steps" : 1759,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "04/21/18 21:30:06",
+  "startTime" : "04/21/18 21:13:00",
+  "originalStartTime" : "04/21/18 21:13:00",
+  "originalDuration" : 840000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 13729262643,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 2,
+    "name" : "lightly"
+  },{
+    "minutes" : 15,
+    "name" : "fairly"
+  },{
+    "minutes" : 15,
+    "name" : "very"
+  }],
+  "calories" : 219,
+  "duration" : 1997000,
+  "activeDuration" : 1997000,
+  "steps" : 2575,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "04/22/18 19:18:14",
+  "startTime" : "04/22/18 18:30:01",
+  "originalStartTime" : "04/22/18 18:30:01",
+  "originalDuration" : 1997000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 13709509446,
+  "activityName" : "Elliptical Trainer (MyFitnessPal)",
+  "activityTypeId" : 5493232,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 46,
+    "name" : "very"
+  }],
+  "calories" : 565,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 2760000,
+  "activeDuration" : 2760000,
+  "steps" : 5994,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "04/22/18 20:25:33",
+  "startTime" : "04/22/18 19:36:00",
+  "originalStartTime" : "04/22/18 19:36:00",
+  "originalDuration" : 2760000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 13749015398,
+  "activityName" : "Aerobics, general (MyFitnessPal)",
+  "activityTypeId" : 8886341,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 45,
+    "name" : "very"
+  }],
+  "calories" : 442,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 2700000,
+  "activeDuration" : 2700000,
+  "steps" : 684,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "04/23/18 19:15:03",
+  "startTime" : "04/23/18 18:30:00",
+  "originalStartTime" : "04/23/18 18:30:00",
+  "originalDuration" : 2700000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 13751342724,
+  "activityName" : "Elliptical Trainer (MyFitnessPal)",
+  "activityTypeId" : 5493232,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 53,
+    "name" : "very"
+  }],
+  "calories" : 681,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 3180000,
+  "activeDuration" : 3180000,
+  "steps" : 7150,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "04/24/18 15:10:55",
+  "startTime" : "04/24/18 13:41:00",
+  "originalStartTime" : "04/24/18 13:41:00",
+  "originalDuration" : 3180000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 13797369058,
+  "activityName" : "Elliptical",
+  "activityTypeId" : 20047,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 1,
+    "name" : "fairly"
+  },{
+    "minutes" : 15,
+    "name" : "very"
+  }],
+  "calories" : 207,
+  "duration" : 972000,
+  "activeDuration" : 972000,
+  "steps" : 2015,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "04/25/18 19:44:56",
+  "startTime" : "04/25/18 19:15:41",
+  "originalStartTime" : "04/25/18 19:15:41",
+  "originalDuration" : 972000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 13788826434,
+  "activityName" : "Aerobics, general (MyFitnessPal)",
+  "activityTypeId" : 8886341,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 37,
+    "name" : "very"
+  }],
+  "calories" : 362,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 2220000,
+  "activeDuration" : 2220000,
+  "steps" : 743,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "04/25/18 20:12:05",
+  "startTime" : "04/25/18 19:34:00",
+  "originalStartTime" : "04/25/18 19:34:00",
+  "originalDuration" : 2220000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 13798893972,
+  "activityName" : "Elliptical",
+  "activityTypeId" : 20047,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 1,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 14,
+    "name" : "very"
+  }],
+  "calories" : 186,
+  "duration" : 921000,
+  "activeDuration" : 921000,
+  "steps" : 1794,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "04/25/18 20:59:12",
+  "startTime" : "04/25/18 20:16:17",
+  "originalStartTime" : "04/25/18 20:16:17",
+  "originalDuration" : 921000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 13800702936,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 2,
+    "name" : "sedentary"
+  },{
+    "minutes" : 10,
+    "name" : "lightly"
+  },{
+    "minutes" : 9,
+    "name" : "fairly"
+  },{
+    "minutes" : 5,
+    "name" : "very"
+  }],
+  "calories" : 143,
+  "duration" : 1586000,
+  "activeDuration" : 1586000,
+  "steps" : 1492,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "04/25/18 22:14:57",
+  "startTime" : "04/25/18 21:37:21",
+  "originalStartTime" : "04/25/18 21:37:21",
+  "originalDuration" : 1586000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 13817953544,
+  "activityName" : "Elliptical Trainer (MyFitnessPal)",
+  "activityTypeId" : 5493232,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 36,
+    "name" : "very"
+  }],
+  "calories" : 407,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 2160000,
+  "activeDuration" : 2160000,
+  "steps" : 4540,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "04/26/18 20:10:16",
+  "startTime" : "04/26/18 19:31:00",
+  "originalStartTime" : "04/26/18 19:31:00",
+  "originalDuration" : 2160000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 13844164737,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 2,
+    "name" : "sedentary"
+  },{
+    "minutes" : 1,
+    "name" : "lightly"
+  },{
+    "minutes" : 7,
+    "name" : "fairly"
+  },{
+    "minutes" : 15,
+    "name" : "very"
+  }],
+  "calories" : 172,
+  "duration" : 1536000,
+  "activeDuration" : 1536000,
+  "steps" : 2022,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "04/27/18 21:23:56",
+  "startTime" : "04/27/18 20:04:20",
+  "originalStartTime" : "04/27/18 20:04:20",
+  "originalDuration" : 1536000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 13844386980,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 3,
+    "name" : "sedentary"
+  },{
+    "minutes" : 19,
+    "name" : "lightly"
+  },{
+    "minutes" : 11,
+    "name" : "fairly"
+  },{
+    "minutes" : 2,
+    "name" : "very"
+  }],
+  "calories" : 171,
+  "duration" : 2150000,
+  "activeDuration" : 2150000,
+  "steps" : 1659,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "04/27/18 21:39:01",
+  "startTime" : "04/27/18 20:47:00",
+  "originalStartTime" : "04/27/18 20:47:00",
+  "originalDuration" : 2150000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 13863139280,
+  "activityName" : "Elliptical Trainer (MyFitnessPal)",
+  "activityTypeId" : 5493232,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 15,
+    "name" : "very"
+  }],
+  "calories" : 149,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 900000,
+  "activeDuration" : 900000,
+  "steps" : 1967,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "04/30/18 16:39:14",
+  "startTime" : "04/30/18 13:46:00",
+  "originalStartTime" : "04/30/18 13:46:00",
+  "originalDuration" : 900000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 13865595922,
+  "activityName" : "Elliptical Trainer (MyFitnessPal)",
+  "activityTypeId" : 5493232,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 16,
+    "name" : "very"
+  }],
+  "calories" : 182,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 960000,
+  "activeDuration" : 960000,
+  "steps" : 2087,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "04/30/18 14:56:53",
+  "startTime" : "04/30/18 13:46:00",
+  "originalStartTime" : "04/30/18 13:46:00",
+  "originalDuration" : 960000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 13865605642,
+  "activityName" : "Aerobics, general (MyFitnessPal)",
+  "activityTypeId" : 8886341,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 48,
+    "name" : "very"
+  }],
+  "calories" : 480,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 2880000,
+  "activeDuration" : 2880000,
+  "steps" : 792,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "04/30/18 14:55:33",
+  "startTime" : "04/30/18 14:07:00",
+  "originalStartTime" : "04/30/18 14:07:00",
+  "originalDuration" : 2880000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 13863611173,
+  "activityName" : "Elliptical Trainer (MyFitnessPal)",
+  "activityTypeId" : 5493232,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 15,
+    "name" : "very"
+  }],
+  "calories" : 167,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 900000,
+  "activeDuration" : 900000,
+  "steps" : 1871,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "04/30/18 16:39:13",
+  "startTime" : "04/30/18 14:58:00",
+  "originalStartTime" : "04/30/18 14:58:00",
+  "originalDuration" : 900000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 14011661943,
+  "activityName" : "Elliptical Trainer (MyFitnessPal)",
+  "activityTypeId" : 5493232,
+  "activityLevel" : [{
+    "minutes" : 16,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "calories" : 18,
+  "distance" : 0.0,
+  "distanceUnit" : "Mile",
+  "duration" : 960000,
+  "activeDuration" : 960000,
+  "steps" : 244,
+  "source" : {
+    "type" : "app",
+    "name" : "MyFitnessPal",
+    "id" : "228VC7",
+    "url" : "http://www.myfitnesspal.com"
+  },
+  "logType" : "manual",
+  "manualValuesSpecified" : {
+    "calories" : true,
+    "distance" : true,
+    "steps" : false
+  },
+  "speed" : 0.0,
+  "lastModified" : "05/06/18 15:54:24",
+  "startTime" : "05/01/18 14:58:00",
+  "originalStartTime" : "05/01/18 14:58:00",
+  "originalDuration" : 960000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 13989218705,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 1,
+    "name" : "lightly"
+  },{
+    "minutes" : 12,
+    "name" : "fairly"
+  },{
+    "minutes" : 6,
+    "name" : "very"
+  }],
+  "calories" : 127,
+  "duration" : 1177000,
+  "activeDuration" : 1177000,
+  "steps" : 1475,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "05/04/18 15:57:13",
+  "startTime" : "05/03/18 23:37:42",
+  "originalStartTime" : "05/03/18 23:37:42",
+  "originalDuration" : 1177000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 13994584084,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 10,
+    "name" : "lightly"
+  },{
+    "minutes" : 27,
+    "name" : "fairly"
+  },{
+    "minutes" : 6,
+    "name" : "very"
+  }],
+  "calories" : 236,
+  "duration" : 2608000,
+  "activeDuration" : 2608000,
+  "steps" : 2519,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "05/04/18 21:30:43",
+  "startTime" : "05/04/18 20:35:30",
+  "originalStartTime" : "05/04/18 20:35:30",
+  "originalDuration" : 2608000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 14089373723,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 9,
+    "name" : "lightly"
+  },{
+    "minutes" : 8,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "calories" : 76,
+  "duration" : 1126000,
+  "activeDuration" : 1126000,
+  "steps" : 603,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "05/09/18 05:01:37",
+  "startTime" : "05/08/18 11:36:48",
+  "originalStartTime" : "05/08/18 11:36:48",
+  "originalDuration" : 1126000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 14089373725,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 1,
+    "name" : "lightly"
+  },{
+    "minutes" : 6,
+    "name" : "fairly"
+  },{
+    "minutes" : 17,
+    "name" : "very"
+  }],
+  "calories" : 175,
+  "duration" : 1433000,
+  "activeDuration" : 1433000,
+  "steps" : 2100,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "05/09/18 05:01:37",
+  "startTime" : "05/08/18 12:39:57",
+  "originalStartTime" : "05/08/18 12:39:57",
+  "originalDuration" : 1433000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 14126984237,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 3,
+    "name" : "lightly"
+  },{
+    "minutes" : 23,
+    "name" : "fairly"
+  },{
+    "minutes" : 3,
+    "name" : "very"
+  }],
+  "calories" : 176,
+  "duration" : 1741000,
+  "activeDuration" : 1741000,
+  "steps" : 1961,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "05/10/18 19:14:22",
+  "startTime" : "05/10/18 18:36:04",
+  "originalStartTime" : "05/10/18 18:36:04",
+  "originalDuration" : 1741000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 14128629953,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 15,
+    "name" : "fairly"
+  },{
+    "minutes" : 2,
+    "name" : "very"
+  }],
+  "calories" : 103,
+  "duration" : 1025000,
+  "activeDuration" : 1025000,
+  "steps" : 1174,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "05/10/18 20:46:07",
+  "startTime" : "05/10/18 20:11:39",
+  "originalStartTime" : "05/10/18 20:11:39",
+  "originalDuration" : 1025000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 14250830144,
+  "activityName" : "Outdoor Bike",
+  "activityTypeId" : 1071,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 2,
+    "name" : "lightly"
+  },{
+    "minutes" : 12,
+    "name" : "fairly"
+  },{
+    "minutes" : 26,
+    "name" : "very"
+  }],
+  "calories" : 316,
+  "duration" : 2406000,
+  "activeDuration" : 2406000,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "05/16/18 16:26:32",
+  "startTime" : "05/15/18 17:32:32",
+  "originalStartTime" : "05/15/18 17:32:32",
+  "originalDuration" : 2406000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 14250830150,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 9,
+    "name" : "lightly"
+  },{
+    "minutes" : 27,
+    "name" : "fairly"
+  },{
+    "minutes" : 4,
+    "name" : "very"
+  }],
+  "calories" : 224,
+  "duration" : 2355000,
+  "activeDuration" : 2355000,
+  "steps" : 2398,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "05/16/18 16:26:32",
+  "startTime" : "05/15/18 21:51:57",
+  "originalStartTime" : "05/15/18 21:51:57",
+  "originalDuration" : 2355000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 14273484981,
+  "activityName" : "Outdoor Bike",
+  "activityTypeId" : 1071,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 5,
+    "name" : "fairly"
+  },{
+    "minutes" : 19,
+    "name" : "very"
+  }],
+  "calories" : 198,
+  "duration" : 1433000,
+  "activeDuration" : 1433000,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "05/17/18 14:18:12",
+  "startTime" : "05/16/18 19:07:40",
+  "originalStartTime" : "05/16/18 19:07:40",
+  "originalDuration" : 1433000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+}]

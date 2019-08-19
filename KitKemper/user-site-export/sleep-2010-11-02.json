@@ -1,0 +1,56 @@
+[{
+  "logId" : 1326344,
+  "dateOfSleep" : "2010-12-01",
+  "startTime" : "2010-12-01T00:15:00.000",
+  "endTime" : "2010-12-01T02:46:00.000",
+  "duration" : 9060000,
+  "minutesToFallAsleep" : 6,
+  "minutesAsleep" : 142,
+  "minutesAwake" : 3,
+  "minutesAfterWakeup" : 0,
+  "timeInBed" : 151,
+  "efficiency" : 98,
+  "type" : "classic",
+  "infoCode" : 0,
+  "levels" : {
+    "summary" : {
+      "restless" : {
+        "count" : 3,
+        "minutes" : 9
+      },
+      "awake" : {
+        "count" : 0,
+        "minutes" : 0
+      },
+      "asleep" : {
+        "count" : 0,
+        "minutes" : 142
+      }
+    },
+    "data" : [{
+      "dateTime" : "2010-12-01T00:15:00.000",
+      "level" : "restless",
+      "seconds" : 360
+    },{
+      "dateTime" : "2010-12-01T00:21:00.000",
+      "level" : "asleep",
+      "seconds" : 5460
+    },{
+      "dateTime" : "2010-12-01T01:52:00.000",
+      "level" : "restless",
+      "seconds" : 120
+    },{
+      "dateTime" : "2010-12-01T01:54:00.000",
+      "level" : "asleep",
+      "seconds" : 2160
+    },{
+      "dateTime" : "2010-12-01T02:30:00.000",
+      "level" : "restless",
+      "seconds" : 60
+    },{
+      "dateTime" : "2010-12-01T02:31:00.000",
+      "level" : "asleep",
+      "seconds" : 900
+    }]
+  }
+}]
